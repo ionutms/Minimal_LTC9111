@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.35,
-          "width": 1.85
+          "height": 2.79,
+          "width": 0.74
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -455,7 +455,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.1778,
+        "clearance": 0.1651,
         "diff_pair_gap": 0.127,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.1778,
@@ -476,6 +476,8 @@
     },
     "net_colors": {
       "/IN": "rgb(132, 0, 0)",
+      "/POWER_IN_N": "rgb(0, 132, 132)",
+      "/POWER_IN_P": "rgb(132, 0, 132)",
       "/POWER_N": "rgb(0, 194, 194)",
       "/POWER_P": "rgb(194, 0, 194)",
       "GND": "rgb(72, 72, 72)"
