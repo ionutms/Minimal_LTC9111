@@ -475,7 +475,9 @@
       "version": 3
     },
     "net_colors": {
+      "/BULK_OUT": "rgb(132, 132, 0)",
       "/IN": "rgb(132, 0, 0)",
+      "/OUT": "rgb(194, 194, 0)",
       "/POWER_IN_N": "rgb(0, 132, 132)",
       "/POWER_IN_P": "rgb(132, 0, 132)",
       "/POWER_N": "rgb(0, 194, 194)",
