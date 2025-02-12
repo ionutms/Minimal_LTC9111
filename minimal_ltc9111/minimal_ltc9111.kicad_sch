@@ -997,7 +997,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "capacitor_footprints:C_1210_3225Metric"
+			(property "Footprint" "capacitor_footprints:C_1210_200_3225Metric"
 				(at 0 -7.62 0)
 				(show_name)
 				(effects
@@ -1019,7 +1019,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP SMD 4.7 µF X7S 10% 1210 100V"
+			(property "Description" "CAP SMD 4.7 µF X7S 10% 1210_200 100V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -1030,7 +1030,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "1210"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1210.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -1041,7 +1041,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "3225"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -1052,7 +1052,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7S"
+			(property "Case Code - in" "1210_200"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -1063,7 +1063,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "GCM32DC72A475KE02L"
+			(property "Case Code - mm" "3225"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -1074,7 +1074,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Murata Electronics"
+			(property "Dielectric" "X7S"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -1085,7 +1085,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "GCM32DC72A"
+			(property "MPN" "GCM32DC72A475KE02L"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -1096,7 +1096,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_GCM32DC72A475KE02L"
+			(property "Manufacturer" "Murata Electronics"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -1107,7 +1107,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "10%"
+			(property "Series" "GCM32DC72A"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -1118,7 +1118,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GCM32DC72A475KE02L"
+			(property "Symbol Name" "C_GCM32DC72A475KE02L"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -1129,8 +1129,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "100V"
+			(property "Tolerance" "10%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GCM32DC72A475KE02L"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "100V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -8832,7 +8854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "capacitor_footprints:C_1210_3225Metric"
+		(property "Footprint" "capacitor_footprints:C_1210_200_3225Metric"
 			(at 261.62 109.22 0)
 			(show_name yes)
 			(effects
@@ -8854,7 +8876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP SMD 4.7 µF X7S 10% 1210 100V"
+		(property "Description" "CAP SMD 4.7 µF X7S 10% 1210_200 100V"
 			(at 256.54 109.22 0)
 			(show_name yes)
 			(effects
@@ -8920,7 +8942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "1210"
+		(property "Case Code - in" "1210_200"
 			(at 254 109.22 0)
 			(effects
 				(font
@@ -8972,6 +8994,26 @@
 		)
 		(property "Voltage Rating" "100V"
 			(at 231.14 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1210.step"
+			(at 254 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 251.46 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12220,7 +12262,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "capacitor_footprints:C_1210_3225Metric"
+		(property "Footprint" "capacitor_footprints:C_1210_200_3225Metric"
 			(at 246.38 109.22 0)
 			(show_name yes)
 			(effects
@@ -12242,7 +12284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP SMD 4.7 µF X7S 10% 1210 100V"
+		(property "Description" "CAP SMD 4.7 µF X7S 10% 1210_200 100V"
 			(at 241.3 109.22 0)
 			(show_name yes)
 			(effects
@@ -12308,7 +12350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "1210"
+		(property "Case Code - in" "1210_200"
 			(at 238.76 109.22 0)
 			(effects
 				(font
@@ -12360,6 +12402,26 @@
 		)
 		(property "Voltage Rating" "100V"
 			(at 215.9 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1210.step"
+			(at 238.76 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 236.22 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
