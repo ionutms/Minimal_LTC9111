@@ -63,7 +63,7 @@
 					(hide yes)
 				)
 			)
-			(property "Capacitor Type" "Polymer"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_026x026x0236.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -74,7 +74,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "026x026x0236"
+			(property "Capacitor Type" "Polymer"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -85,7 +85,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "6_6x6_6x6_0"
+			(property "Case Code - in" "026x026x0236"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -96,7 +96,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "Polymer"
+			(property "Case Code - mm" "6_6x6_6x6_0"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -107,7 +107,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "50SVPK68M"
+			(property "Dielectric" "Polymer"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -118,7 +118,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Panasonic"
+			(property "MPN" "50SVPK68M"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -129,7 +129,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "50SVPK"
+			(property "Manufacturer" "Panasonic"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -140,7 +140,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_50SVPK68M"
+			(property "Series" "50SVPK"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -151,7 +151,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "20%"
+			(property "Symbol Name" "C_50SVPK68M"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -162,7 +162,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M"
+			(property "Tolerance" "20%"
 				(at 0 -38.1 0)
 				(show_name)
 				(effects
@@ -173,8 +173,19 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "50V"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M"
 				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "50V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -10717,6 +10728,16 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_026x026x0236.step"
+			(at 281.94 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7be78d33-2d67-4fff-baa1-3bbf55a71bfe")
 		)
@@ -10906,6 +10927,16 @@
 		(property "Voltage Rating" "50V"
 			(at 243.84 113.03 0)
 			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_026x026x0236.step"
+			(at 269.24 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)

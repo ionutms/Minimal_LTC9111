@@ -6467,7 +6467,7 @@
 			(at -2 -3.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "fbee05cd-e74a-4070-8cf8-3d3b14207a33")
+			(uuid "096eac00-f7b8-4576-9360-19a6ff1ebdd9")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -6480,7 +6480,7 @@
 			(at 0 4.318 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "bd1ceb53-7237-46d0-865a-5bfb51f93ba8")
+			(uuid "70cd8dc8-b96b-4ac2-9dd7-85c503f6f582")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -6493,7 +6493,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d1daacea-bf03-41bf-b598-7edac151b922")
+			(uuid "59ae3d1a-ca89-40bf-bbc1-80c519f9ef94")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -6506,7 +6506,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "144530b8-ab4a-4723-ba4f-e9a66fab9305")
+			(uuid "a2f0cb36-274b-410e-9e49-e48209d4998b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6518,7 +6518,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6761351c-da6f-444f-8d34-440c0ccea047")
+			(uuid "e223d78f-cd88-4351-9f97-00281066bdae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6669,6 +6669,19 @@
 				)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_026x026x0236.step"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53710039-4e21-4a66-b048-ffe92d1b5c01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/bcf248e4-430d-45a3-b4f2-3d29e3e784d7")
 		(sheetname "Root")
 		(sheetfile "minimal_ltc9111.kicad_sch")
@@ -6682,7 +6695,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "d6fbdab4-1acf-4afe-97bd-38de0c225be4")
+			(uuid "f35f51a8-8c65-45e5-915c-58c2b654a7b4")
 		)
 		(fp_poly
 			(pts
@@ -6694,7 +6707,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "7b7b23c2-df05-4dc7-9678-508f4ac61d87")
+			(uuid "2aa0c0a4-666b-4b7f-9109-a367ae48028d")
 		)
 		(fp_poly
 			(pts
@@ -6706,13 +6719,13 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "101aba22-e4ba-4ed0-80ac-3cf33475a261")
+			(uuid "a35e9bef-8cfd-4a58-b5db-6a07f353552f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 5.588 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "f27b5fa3-497a-4299-a5c1-16591ab245ab")
+			(uuid "755757c4-6aef-4f8f-a113-482e72c9a705")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -6728,18 +6741,7 @@
 			(roundrect_rratio 0.25)
 			(net 2 "/BULK_OUT")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curve_points 5)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
-			(uuid "454d64d4-c679-477d-a2a5-c6c3d671d0ca")
+			(uuid "bd1821f5-e0a5-4d44-936f-78f7eddd9ad9")
 		)
 		(pad "2" smd roundrect
 			(at 2.2 0 180)
@@ -6748,18 +6750,7 @@
 			(roundrect_rratio 0.25)
 			(net 3 "GND")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curve_points 5)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
-			(uuid "809baaad-b858-4525-b253-d266f23571fa")
+			(uuid "1bbdf032-bf53-4982-ae6c-73abb09532a4")
 		)
 		(model "${KIPRJMOD}/KiCAD_Symbol_Generator/3D_models/C_026x026x0236.step"
 			(offset
@@ -8539,7 +8530,7 @@
 			(at -2 3.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "1773ee12-a2ab-4597-9003-2f3dac667232")
+			(uuid "0ee8975d-b4c6-40b1-b9e0-6436768cdf0e")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -8552,7 +8543,7 @@
 			(at 0 4.318 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "8e935d32-e165-405b-aa9f-10a5693fb6a7")
+			(uuid "90ec9d5e-9951-4373-b4b6-1a1b1bee8512")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -8565,7 +8556,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0732659b-511e-4315-ab43-610843d34cdf")
+			(uuid "9c54878b-0824-44c8-b680-69d106397dfc")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -8578,7 +8569,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23d8c28e-5913-40f3-8f70-1338e0fbf3f0")
+			(uuid "342bcfa3-5590-4ef9-bec1-9986529145fd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8590,7 +8581,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a087c918-e152-4a6d-a2c2-f6f26ec225f3")
+			(uuid "85c77d33-fd23-420c-92c4-1f351bdfbd48")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8741,6 +8732,19 @@
 				)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_026x026x0236.step"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4e78a84-e179-4981-9ecd-f5d1fbbccfe9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c92fac43-8224-445f-92b6-14a78a87f403")
 		(sheetname "Root")
 		(sheetfile "minimal_ltc9111.kicad_sch")
@@ -8754,7 +8758,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "5d41d552-28cd-46ff-b7b5-7f8e00893408")
+			(uuid "c6bc0dbb-de0f-4c74-9321-4d7af027ce28")
 		)
 		(fp_poly
 			(pts
@@ -8766,7 +8770,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "a86097bd-5375-45c6-b53e-021799301e49")
+			(uuid "531cbaef-118e-4d49-a038-854f49da7659")
 		)
 		(fp_poly
 			(pts
@@ -8778,13 +8782,13 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "4ac01382-523d-45c2-adef-2b17d3d91ae9")
+			(uuid "322438cf-4d06-4594-8428-b9faddb94a58")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 5.588 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "c8d6213d-a29f-4ff0-955b-a42293c80b67")
+			(uuid "836148b8-caeb-4b14-9fb9-65f92bac4ded")
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -8800,18 +8804,7 @@
 			(roundrect_rratio 0.25)
 			(net 2 "/BULK_OUT")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curve_points 5)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
-			(uuid "d59f14fc-d75b-4700-afe8-70b8cec45ded")
+			(uuid "a76c1a2d-bee2-4154-8224-6c85591c9535")
 		)
 		(pad "2" smd roundrect
 			(at 2.2 0 180)
@@ -8820,18 +8813,7 @@
 			(roundrect_rratio 0.25)
 			(net 3 "GND")
 			(pintype "unspecified")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curve_points 5)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
-			(uuid "4ff308c8-d13b-448a-bc6c-85a70f6e9637")
+			(uuid "dc716c8a-dad4-4329-8921-73e07d664c05")
 		)
 		(model "${KIPRJMOD}/KiCAD_Symbol_Generator/3D_models/C_026x026x0236.step"
 			(offset
