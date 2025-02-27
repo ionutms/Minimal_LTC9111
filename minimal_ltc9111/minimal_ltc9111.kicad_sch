@@ -5,7 +5,7 @@
 	(uuid "6aaa2e97-4eb3-4b80-8e63-a529f6ae566a")
 	(paper "A3")
 	(lib_symbols
-		(symbol "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M"
+		(symbol "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M68"
 			(pin_names
 				(offset 0.254)
 			)
@@ -30,7 +30,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "capacitor_footprints:C_026x026x0236_6_6x6_6x6_0Metric"
+			(property "Footprint" "capacitor_footprints:C_031x0468_8_0x11_9Metric"
 				(at 0 -7.62 0)
 				(show_name)
 				(effects
@@ -41,7 +41,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C226.pdf50SVPK68M"
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C226.pdf"
 				(at 0 -10.16 0)
 				(show_name)
 				(effects
@@ -52,7 +52,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP SMD 68 µF Polymer 20% 026x026x0236 50V"
+			(property "Description" "CAP SMD 68 µF Polymer 20% 031x0468 50V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -63,7 +63,7 @@
 					(hide yes)
 				)
 			)
-			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_026x026x0236.step"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_031x0468.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -85,7 +85,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "026x026x0236"
+			(property "Case Code - in" "031x0468"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -96,7 +96,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "6_6x6_6x6_0"
+			(property "Case Code - mm" "8_0x11_9"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -118,7 +118,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "50SVPK68M"
+			(property "MPN" "50SVPK68M68"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -140,7 +140,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "50SVPK"
+			(property "Series" "50SVPK68M"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -151,7 +151,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_50SVPK68M"
+			(property "Symbol Name" "C_50SVPK68M68"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -173,7 +173,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M68"
 				(at 0 -40.64 0)
 				(show_name)
 				(effects
@@ -195,7 +195,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "C_50SVPK68M_0_1"
+			(symbol "C_50SVPK68M68_0_1"
 				(polyline
 					(pts
 						(xy -2.54 -1.016) (xy -2.54 -2.032)
@@ -245,7 +245,7 @@
 					)
 				)
 			)
-			(symbol "C_50SVPK68M_1_1"
+			(symbol "C_50SVPK68M68_1_1"
 				(pin unspecified line
 					(at -3.81 0 0)
 					(length 2.8)
@@ -8166,34 +8166,35 @@
 	)
 	(symbol
 		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
-		(at 106.68 109.22 90)
+		(at 106.68 109.22 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "4c4a8802-b7b7-402c-81ca-3656a8b3ff34")
 		(property "Reference" "J1"
-			(at 101.6 110.4901 90)
+			(at 101.6 107.9499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "FW-02-03-G-D-085-155"
-			(at 101.6 107.9501 90)
+			(at 101.6 110.4899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
-			(at 114.3 114.3 0)
+			(at 99.06 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8204,7 +8205,7 @@
 			)
 		)
 		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
-			(at 116.84 114.3 0)
+			(at 96.52 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8215,7 +8216,7 @@
 			)
 		)
 		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
-			(at 119.38 114.3 0)
+			(at 93.98 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8226,7 +8227,7 @@
 			)
 		)
 		(property "Color" "Black"
-			(at 121.92 114.3 0)
+			(at 91.44 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8237,7 +8238,7 @@
 			)
 		)
 		(property "Contact Plating" "Gold"
-			(at 124.46 114.3 0)
+			(at 88.9 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8248,7 +8249,7 @@
 			)
 		)
 		(property "Current Rating (A)" "5.2"
-			(at 127 114.3 0)
+			(at 86.36 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8259,7 +8260,7 @@
 			)
 		)
 		(property "MPN" "FW-02-03-G-D-085-155"
-			(at 129.54 114.3 0)
+			(at 83.82 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8270,7 +8271,7 @@
 			)
 		)
 		(property "Manufacturer" "Samtec"
-			(at 132.08 114.3 0)
+			(at 81.28 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8281,7 +8282,7 @@
 			)
 		)
 		(property "Mounting Angle" "Vertical"
-			(at 134.62 114.3 0)
+			(at 78.74 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8292,7 +8293,7 @@
 			)
 		)
 		(property "Mounting Style" "Surface Mount"
-			(at 137.16 114.3 0)
+			(at 76.2 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8303,7 +8304,7 @@
 			)
 		)
 		(property "Number of Rows" "2"
-			(at 139.7 114.3 0)
+			(at 73.66 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8314,7 +8315,7 @@
 			)
 		)
 		(property "Pin Count" "2"
-			(at 142.24 114.3 0)
+			(at 71.12 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8325,7 +8326,7 @@
 			)
 		)
 		(property "Pitch (mm)" "1.27"
-			(at 144.78 114.3 0)
+			(at 68.58 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8336,7 +8337,7 @@
 			)
 		)
 		(property "Series" "FW-xx-03-G-D-085-155"
-			(at 147.32 114.3 0)
+			(at 66.04 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8347,7 +8348,7 @@
 			)
 		)
 		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
-			(at 149.86 114.3 0)
+			(at 63.5 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8358,7 +8359,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
-			(at 152.4 114.3 0)
+			(at 60.96 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -8369,7 +8370,7 @@
 			)
 		)
 		(property "Voltage Rating (V)" "300"
-			(at 154.94 114.3 0)
+			(at 58.42 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9479,33 +9480,34 @@
 	)
 	(symbol
 		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
-		(at 314.96 109.22 270)
+		(at 314.96 109.22 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "8197e588-684f-4091-bfb5-3db74ca94953")
 		(property "Reference" "J2"
-			(at 320.04 110.4901 90)
+			(at 320.04 107.9499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "FW-02-03-G-D-085-155"
-			(at 320.04 107.9501 90)
+			(at 320.04 110.4899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
-			(at 307.34 114.3 0)
+			(at 322.58 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9516,7 +9518,7 @@
 			)
 		)
 		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
-			(at 304.8 114.3 0)
+			(at 325.12 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9527,7 +9529,7 @@
 			)
 		)
 		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
-			(at 302.26 114.3 0)
+			(at 327.66 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9538,7 +9540,7 @@
 			)
 		)
 		(property "Color" "Black"
-			(at 299.72 114.3 0)
+			(at 330.2 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9549,7 +9551,7 @@
 			)
 		)
 		(property "Contact Plating" "Gold"
-			(at 297.18 114.3 0)
+			(at 332.74 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9560,7 +9562,7 @@
 			)
 		)
 		(property "Current Rating (A)" "5.2"
-			(at 294.64 114.3 0)
+			(at 335.28 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9571,7 +9573,7 @@
 			)
 		)
 		(property "MPN" "FW-02-03-G-D-085-155"
-			(at 292.1 114.3 0)
+			(at 337.82 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9582,7 +9584,7 @@
 			)
 		)
 		(property "Manufacturer" "Samtec"
-			(at 289.56 114.3 0)
+			(at 340.36 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9593,7 +9595,7 @@
 			)
 		)
 		(property "Mounting Angle" "Vertical"
-			(at 287.02 114.3 0)
+			(at 342.9 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9604,7 +9606,7 @@
 			)
 		)
 		(property "Mounting Style" "Surface Mount"
-			(at 284.48 114.3 0)
+			(at 345.44 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9615,7 +9617,7 @@
 			)
 		)
 		(property "Number of Rows" "2"
-			(at 281.94 114.3 0)
+			(at 347.98 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9626,7 +9628,7 @@
 			)
 		)
 		(property "Pin Count" "2"
-			(at 279.4 114.3 0)
+			(at 350.52 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9637,7 +9639,7 @@
 			)
 		)
 		(property "Pitch (mm)" "1.27"
-			(at 276.86 114.3 0)
+			(at 353.06 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9648,7 +9650,7 @@
 			)
 		)
 		(property "Series" "FW-xx-03-G-D-085-155"
-			(at 274.32 114.3 0)
+			(at 355.6 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9659,7 +9661,7 @@
 			)
 		)
 		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
-			(at 271.78 114.3 0)
+			(at 358.14 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9670,7 +9672,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
-			(at 269.24 114.3 0)
+			(at 360.68 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9681,7 +9683,7 @@
 			)
 		)
 		(property "Voltage Rating (V)" "300"
-			(at 266.7 114.3 0)
+			(at 363.22 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10547,7 +10549,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M")
+		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M68")
 		(at 297.18 113.03 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10574,7 +10576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "capacitor_footprints:C_026x026x0236_6_6x6_6x6_0Metric"
+		(property "Footprint" "capacitor_footprints:C_031x0468_8_0x11_9Metric"
 			(at 289.56 113.03 0)
 			(show_name yes)
 			(effects
@@ -10585,7 +10587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C226.pdf50SVPK68M"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C226.pdf"
 			(at 287.02 113.03 0)
 			(show_name yes)
 			(effects
@@ -10596,7 +10598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP SMD 68 µF Polymer 20% 026x026x0236 50V"
+		(property "Description" "CAP SMD 68 µF Polymer 20% 031x0468 50V"
 			(at 284.48 113.03 0)
 			(show_name yes)
 			(effects
@@ -10608,17 +10610,6 @@
 			)
 		)
 		(property "Capacitor Type" "Polymer"
-			(at 281.94 113.03 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Case Code - in" "026x026x0236"
 			(at 279.4 113.03 0)
 			(show_name yes)
 			(effects
@@ -10629,7 +10620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - mm" "6_6x6_6x6_0"
+		(property "Case Code - in" "031x0468"
 			(at 276.86 113.03 0)
 			(show_name yes)
 			(effects
@@ -10640,7 +10631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dielectric" "Polymer"
+		(property "Case Code - mm" "8_0x11_9"
 			(at 274.32 113.03 0)
 			(show_name yes)
 			(effects
@@ -10651,7 +10642,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "50SVPK68M"
+		(property "Dielectric" "Polymer"
 			(at 271.78 113.03 0)
 			(show_name yes)
 			(effects
@@ -10662,7 +10653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "MPN" "50SVPK68M68"
 			(at 269.24 113.03 0)
 			(show_name yes)
 			(effects
@@ -10673,7 +10664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "50SVPK"
+		(property "Manufacturer" "Panasonic"
 			(at 266.7 113.03 0)
 			(show_name yes)
 			(effects
@@ -10684,7 +10675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "C_50SVPK68M"
+		(property "Series" "50SVPK68M"
 			(at 264.16 113.03 0)
 			(show_name yes)
 			(effects
@@ -10695,7 +10686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "20%"
+		(property "Symbol Name" "C_50SVPK68M68"
 			(at 261.62 113.03 0)
 			(show_name yes)
 			(effects
@@ -10706,7 +10697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M"
+		(property "Tolerance" "20%"
 			(at 259.08 113.03 0)
 			(show_name yes)
 			(effects
@@ -10717,7 +10708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "50V"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M68"
 			(at 256.54 113.03 0)
 			(show_name yes)
 			(effects
@@ -10728,8 +10719,20 @@
 				(hide yes)
 			)
 		)
-		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_026x026x0236.step"
+		(property "Voltage Rating" "50V"
+			(at 254 113.03 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_031x0468.step"
 			(at 281.94 113.03 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10754,7 +10757,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M")
+		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M68")
 		(at 284.48 113.03 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10781,7 +10784,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "capacitor_footprints:C_026x026x0236_6_6x6_6x6_0Metric"
+		(property "Footprint" "capacitor_footprints:C_031x0468_8_0x11_9Metric"
 			(at 276.86 113.03 0)
 			(show_name yes)
 			(effects
@@ -10792,7 +10795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C226.pdf50SVPK68M"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C226.pdf"
 			(at 274.32 113.03 0)
 			(show_name yes)
 			(effects
@@ -10803,7 +10806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP SMD 68 µF Polymer 20% 026x026x0236 50V"
+		(property "Description" "CAP SMD 68 µF Polymer 20% 031x0468 50V"
 			(at 271.78 113.03 0)
 			(show_name yes)
 			(effects
@@ -10815,17 +10818,6 @@
 			)
 		)
 		(property "Capacitor Type" "Polymer"
-			(at 269.24 113.03 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Case Code - in" "026x026x0236"
 			(at 266.7 113.03 0)
 			(show_name yes)
 			(effects
@@ -10836,7 +10828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - mm" "6_6x6_6x6_0"
+		(property "Case Code - in" "031x0468"
 			(at 264.16 113.03 0)
 			(show_name yes)
 			(effects
@@ -10847,7 +10839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dielectric" "Polymer"
+		(property "Case Code - mm" "8_0x11_9"
 			(at 261.62 113.03 0)
 			(show_name yes)
 			(effects
@@ -10858,7 +10850,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "50SVPK68M"
+		(property "Dielectric" "Polymer"
 			(at 259.08 113.03 0)
 			(show_name yes)
 			(effects
@@ -10869,7 +10861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "MPN" "50SVPK68M68"
 			(at 256.54 113.03 0)
 			(show_name yes)
 			(effects
@@ -10880,7 +10872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "50SVPK"
+		(property "Manufacturer" "Panasonic"
 			(at 254 113.03 0)
 			(show_name yes)
 			(effects
@@ -10891,7 +10883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "C_50SVPK68M"
+		(property "Series" "50SVPK68M"
 			(at 251.46 113.03 0)
 			(show_name yes)
 			(effects
@@ -10902,7 +10894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "20%"
+		(property "Symbol Name" "C_50SVPK68M68"
 			(at 248.92 113.03 0)
 			(show_name yes)
 			(effects
@@ -10913,7 +10905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M"
+		(property "Tolerance" "20%"
 			(at 246.38 113.03 0)
 			(show_name yes)
 			(effects
@@ -10924,7 +10916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "50V"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M68"
 			(at 243.84 113.03 0)
 			(show_name yes)
 			(effects
@@ -10935,8 +10927,20 @@
 				(hide yes)
 			)
 		)
-		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_026x026x0236.step"
+		(property "Voltage Rating" "50V"
+			(at 241.3 113.03 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_031x0468.step"
 			(at 269.24 113.03 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
