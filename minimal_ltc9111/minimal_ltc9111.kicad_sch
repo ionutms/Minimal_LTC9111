@@ -5,7 +5,7 @@
 	(uuid "6aaa2e97-4eb3-4b80-8e63-a529f6ae566a")
 	(paper "A3")
 	(lib_symbols
-		(symbol "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M68"
+		(symbol "UNITED_CAPACITORS_DATA_BASE:C_50SVPK22M22"
 			(pin_names
 				(offset 0.254)
 			)
@@ -21,7 +21,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "68 µF"
+			(property "Value" "22 µF"
 				(at 0 -5.08 0)
 				(effects
 					(font
@@ -30,7 +30,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "capacitor_footprints:C_031x0468_8_0x11_9Metric"
+			(property "Footprint" "capacitor_footprints:C_023x0248_5_9x6_3Metric"
 				(at 0 -7.62 0)
 				(show_name)
 				(effects
@@ -52,7 +52,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP SMD 68 µF Polymer 20% 031x0468 50V"
+			(property "Description" "CAP SMD 22 µF Polymer 20% 023x0248 50V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -63,7 +63,7 @@
 					(hide yes)
 				)
 			)
-			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_031x0468.step"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_023x0248.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -85,7 +85,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "031x0468"
+			(property "Case Code - in" "023x0248"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -96,7 +96,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "8_0x11_9"
+			(property "Case Code - mm" "5_9x6_3"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -118,7 +118,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "50SVPK68M68"
+			(property "MPN" "50SVPK22M22"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -140,7 +140,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "50SVPK68M"
+			(property "Series" "50SVPK22M"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -151,7 +151,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_50SVPK68M68"
+			(property "Symbol Name" "C_50SVPK22M22"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -173,7 +173,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M68"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK22M22"
 				(at 0 -40.64 0)
 				(show_name)
 				(effects
@@ -195,7 +195,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "C_50SVPK68M68_0_1"
+			(symbol "C_50SVPK22M22_0_1"
 				(polyline
 					(pts
 						(xy -2.54 -1.016) (xy -2.54 -2.032)
@@ -245,7 +245,7 @@
 					)
 				)
 			)
-			(symbol "C_50SVPK68M68_1_1"
+			(symbol "C_50SVPK22M22_1_1"
 				(pin unspecified line
 					(at -3.81 0 0)
 					(length 2.8)
@@ -2955,6 +2955,90 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+			)
+		)
+		(symbol "UNITED_NO_COMPONENTS_DATA_BASE:Fiducial"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Fiducial"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "no_components_footprints:Fiducial_0.5mm_Mask1mm"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fiducial Marker"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "fiducial marker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Fiducial*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Fiducial_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type background)
 					)
 				)
 			)
@@ -6368,6 +6452,73 @@
 			(justify right bottom)
 		)
 		(uuid "f2697a1b-bc5b-4b9e-aaf8-3d7e3f2d38e1")
+	)
+	(symbol
+		(lib_id "UNITED_NO_COMPONENTS_DATA_BASE:Fiducial")
+		(at 330.2 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02ac5b06-3113-4e78-8400-f669cf71008a")
+		(property "Reference" "FID3"
+			(at 332.74 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 332.74 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "no_components_footprints:Fiducial_0.5mm_Mask1mm"
+			(at 330.2 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 330.2 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 330.2 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_ltc9111"
+				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
+					(reference "FID3")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -10186,6 +10337,73 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_NO_COMPONENTS_DATA_BASE:Fiducial")
+		(at 317.5 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8cbe02ef-2698-459c-a554-f7467b225e9a")
+		(property "Reference" "FID2"
+			(at 320.04 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 320.04 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "no_components_footprints:Fiducial_0.5mm_Mask1mm"
+			(at 317.5 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 317.5 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 317.5 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_ltc9111"
+				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
+					(reference "FID2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 309.88 118.11 0)
 		(unit 1)
@@ -10412,6 +10630,73 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_NO_COMPONENTS_DATA_BASE:Fiducial")
+		(at 304.8 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b78faed4-363a-4d08-82e8-dcecc8dc27a6")
+		(property "Reference" "FID1"
+			(at 307.34 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 307.34 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "no_components_footprints:Fiducial_0.5mm_Mask1mm"
+			(at 304.8 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 304.8 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 304.8 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
+					(reference "FID1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 152.4 152.4 0)
 		(mirror y)
@@ -10549,7 +10834,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M68")
+		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_50SVPK22M22")
 		(at 297.18 113.03 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10567,7 +10852,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68 µF"
+		(property "Value" "22 µF"
 			(at 300.99 113.5379 90)
 			(effects
 				(font
@@ -10576,7 +10861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "capacitor_footprints:C_031x0468_8_0x11_9Metric"
+		(property "Footprint" "capacitor_footprints:C_023x0248_5_9x6_3Metric"
 			(at 289.56 113.03 0)
 			(show_name yes)
 			(effects
@@ -10598,7 +10883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP SMD 68 µF Polymer 20% 031x0468 50V"
+		(property "Description" "CAP SMD 22 µF Polymer 20% 023x0248 50V"
 			(at 284.48 113.03 0)
 			(show_name yes)
 			(effects
@@ -10620,7 +10905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "031x0468"
+		(property "Case Code - in" "023x0248"
 			(at 276.86 113.03 0)
 			(show_name yes)
 			(effects
@@ -10631,7 +10916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - mm" "8_0x11_9"
+		(property "Case Code - mm" "5_9x6_3"
 			(at 274.32 113.03 0)
 			(show_name yes)
 			(effects
@@ -10653,7 +10938,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "50SVPK68M68"
+		(property "MPN" "50SVPK22M22"
 			(at 269.24 113.03 0)
 			(show_name yes)
 			(effects
@@ -10675,7 +10960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "50SVPK68M"
+		(property "Series" "50SVPK22M"
 			(at 264.16 113.03 0)
 			(show_name yes)
 			(effects
@@ -10686,7 +10971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "C_50SVPK68M68"
+		(property "Symbol Name" "C_50SVPK22M22"
 			(at 261.62 113.03 0)
 			(show_name yes)
 			(effects
@@ -10708,7 +10993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M68"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK22M22"
 			(at 256.54 113.03 0)
 			(show_name yes)
 			(effects
@@ -10730,7 +11015,7 @@
 				(hide yes)
 			)
 		)
-		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_031x0468.step"
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_023x0248.step"
 			(at 281.94 113.03 0)
 			(show_name yes)
 			(effects
@@ -10757,7 +11042,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_50SVPK68M68")
+		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_50SVPK22M22")
 		(at 284.48 113.03 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10775,7 +11060,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68 µF"
+		(property "Value" "22 µF"
 			(at 288.29 113.5379 90)
 			(effects
 				(font
@@ -10784,7 +11069,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "capacitor_footprints:C_031x0468_8_0x11_9Metric"
+		(property "Footprint" "capacitor_footprints:C_023x0248_5_9x6_3Metric"
 			(at 276.86 113.03 0)
 			(show_name yes)
 			(effects
@@ -10806,7 +11091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP SMD 68 µF Polymer 20% 031x0468 50V"
+		(property "Description" "CAP SMD 22 µF Polymer 20% 023x0248 50V"
 			(at 271.78 113.03 0)
 			(show_name yes)
 			(effects
@@ -10828,7 +11113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "031x0468"
+		(property "Case Code - in" "023x0248"
 			(at 264.16 113.03 0)
 			(show_name yes)
 			(effects
@@ -10839,7 +11124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - mm" "8_0x11_9"
+		(property "Case Code - mm" "5_9x6_3"
 			(at 261.62 113.03 0)
 			(show_name yes)
 			(effects
@@ -10861,7 +11146,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "50SVPK68M68"
+		(property "MPN" "50SVPK22M22"
 			(at 256.54 113.03 0)
 			(show_name yes)
 			(effects
@@ -10883,7 +11168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "50SVPK68M"
+		(property "Series" "50SVPK22M"
 			(at 251.46 113.03 0)
 			(show_name yes)
 			(effects
@@ -10894,7 +11179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "C_50SVPK68M68"
+		(property "Symbol Name" "C_50SVPK22M22"
 			(at 248.92 113.03 0)
 			(show_name yes)
 			(effects
@@ -10916,7 +11201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK68M68"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/50SVPK22M22"
 			(at 243.84 113.03 0)
 			(show_name yes)
 			(effects
@@ -10938,7 +11223,7 @@
 				(hide yes)
 			)
 		)
-		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_031x0468.step"
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_023x0248.step"
 			(at 269.24 113.03 0)
 			(show_name yes)
 			(effects
