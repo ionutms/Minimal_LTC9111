@@ -342,7 +342,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "1206"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1206.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -353,7 +353,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "3216"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -364,7 +364,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7R"
+			(property "Case Code - in" "1206"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -375,7 +375,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "885012208119"
+			(property "Case Code - mm" "3216"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -386,7 +386,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Wurth Elektronik"
+			(property "Dielectric" "X7R"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -397,7 +397,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "885012208119"
+			(property "MPN" "885012208119"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -408,7 +408,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_885012208119"
+			(property "Manufacturer" "Wurth Elektronik"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -419,7 +419,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "10%"
+			(property "Series" "885012208119"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -430,7 +430,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/885012208119"
+			(property "Symbol Name" "C_885012208119"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -441,8 +441,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "100V"
+			(property "Tolerance" "10%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/885012208119"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "100V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -575,7 +597,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0603"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0603.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -586,7 +608,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1608"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -597,7 +619,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7S"
+			(property "Case Code - in" "0603"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -608,7 +630,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "C1608X7S2A473K080AB"
+			(property "Case Code - mm" "1608"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -619,7 +641,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "TDK"
+			(property "Dielectric" "X7S"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -630,7 +652,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "C1608X7S2A"
+			(property "MPN" "C1608X7S2A473K080AB"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -641,7 +663,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_C1608X7S2A473K080AB"
+			(property "Manufacturer" "TDK"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -652,7 +674,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "10%"
+			(property "Series" "C1608X7S2A"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -663,7 +685,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/C1608X7S2A473K080AB"
+			(property "Symbol Name" "C_C1608X7S2A473K080AB"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -674,8 +696,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "100V"
+			(property "Tolerance" "10%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/C1608X7S2A473K080AB"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "100V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -808,7 +852,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0603"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0603.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -819,7 +863,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1608"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -830,7 +874,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7R"
+			(property "Case Code - in" "0603"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -841,7 +885,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "CGA3E2X7R2A223M080AA"
+			(property "Case Code - mm" "1608"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -852,7 +896,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "TDK"
+			(property "Dielectric" "X7R"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -863,7 +907,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "CGA3E2X7R2A"
+			(property "MPN" "CGA3E2X7R2A223M080AA"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -874,7 +918,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_CGA3E2X7R2A223M080AA"
+			(property "Manufacturer" "TDK"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -885,7 +929,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "20%"
+			(property "Series" "CGA3E2X7R2A"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -896,7 +940,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CGA3E2X7R2A223M080AA"
+			(property "Symbol Name" "C_CGA3E2X7R2A223M080AA"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -907,8 +951,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "100V"
+			(property "Tolerance" "20%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CGA3E2X7R2A223M080AA"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "100V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -1296,7 +1362,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0402"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0402.step"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -1307,7 +1373,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1005"
+			(property "Capacitor Type" "Ceramic"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -1318,7 +1384,7 @@
 					(hide yes)
 				)
 			)
-			(property "Dielectric" "X7R"
+			(property "Case Code - in" "0402"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -1329,7 +1395,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "GRM155Z71A225KE44D"
+			(property "Case Code - mm" "1005"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -1340,7 +1406,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Murata Electronics"
+			(property "Dielectric" "X7R"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -1351,7 +1417,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "GRM155Z71A"
+			(property "MPN" "GRM155Z71A225KE44D"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -1362,7 +1428,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_GRM155Z71A225KE44D"
+			(property "Manufacturer" "Murata Electronics"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -1373,7 +1439,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "10%"
+			(property "Series" "GRM155Z71A"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -1384,7 +1450,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GRM155Z71A225KE44D"
+			(property "Symbol Name" "C_GRM155Z71A225KE44D"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -1395,8 +1461,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "10V"
+			(property "Tolerance" "10%"
 				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GRM155Z71A225KE44D"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "10V"
+				(at 0 -43.18 0)
 				(show_name)
 				(effects
 					(font
@@ -2920,7 +3008,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "TVS SMD 58 V"
+			(property "Description" "Unidirectional TVS SMD 58 V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -2931,7 +3019,7 @@
 					(hide yes)
 				)
 			)
-			(property "Diode Type" "TVS"
+			(property "Diode Type" "Unidirectional TVS"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -3768,7 +3856,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0603"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0603.step"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -3779,7 +3867,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1608"
+			(property "Case Code - in" "0603"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -3790,7 +3878,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "ERJ-3EKF1000V"
+			(property "Case Code - mm" "1608"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -3801,7 +3889,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Panasonic"
+			(property "Component Type" "Resistor"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -3812,7 +3900,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "ERJ-3EKF"
+			(property "MPN" "ERJ-3EKF1000V"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -3823,7 +3911,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "R_ERJ-3EKF1000V"
+			(property "Manufacturer" "Panasonic"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -3834,7 +3922,7 @@
 					(hide yes)
 				)
 			)
-			(property "Temperature Coefficient" "100 ppm/°C"
+			(property "Series" "ERJ-3EKF"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -3845,7 +3933,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "1%"
+			(property "Symbol Name" "R_ERJ-3EKF1000V"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -3856,7 +3944,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3EKF1000V"
+			(property "Temperature Coefficient" "100 ppm/°C"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -3867,8 +3955,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "75V"
+			(property "Tolerance" "1%"
 				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3EKF1000V"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "75V"
+				(at 0 -40.64 0)
 				(show_name)
 				(effects
 					(font
@@ -4037,7 +4147,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0805"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0805.step"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -4048,7 +4158,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "2012"
+			(property "Case Code - in" "0805"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -4059,7 +4169,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "ERJ-6DQJ3R3V"
+			(property "Case Code - mm" "2012"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -4070,7 +4180,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Panasonic"
+			(property "Component Type" "Resistor"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -4081,7 +4191,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "ERJ-6DQJ"
+			(property "MPN" "ERJ-6DQJ3R3V"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -4092,7 +4202,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "R_ERJ-6DQJ3R3V"
+			(property "Manufacturer" "Panasonic"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -4103,7 +4213,7 @@
 					(hide yes)
 				)
 			)
-			(property "Temperature Coefficient" "100 ppm/°C"
+			(property "Series" "ERJ-6DQJ"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -4114,7 +4224,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "5%"
+			(property "Symbol Name" "R_ERJ-6DQJ3R3V"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -4125,7 +4235,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6DQJ3R3V"
+			(property "Temperature Coefficient" "100 ppm/°C"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -4136,8 +4246,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "150V"
+			(property "Tolerance" "5%"
 				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6DQJ3R3V"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "150V"
+				(at 0 -40.64 0)
 				(show_name)
 				(effects
 					(font
@@ -4306,7 +4438,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0805"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0805.step"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -4317,7 +4449,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "2012"
+			(property "Case Code - in" "0805"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -4328,7 +4460,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "ERJ-6ENF40R2V"
+			(property "Case Code - mm" "2012"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -4339,7 +4471,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Panasonic"
+			(property "Component Type" "Resistor"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -4350,7 +4482,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "ERJ-6ENF"
+			(property "MPN" "ERJ-6ENF40R2V"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -4361,7 +4493,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "R_ERJ-6ENF40R2V"
+			(property "Manufacturer" "Panasonic"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -4372,7 +4504,7 @@
 					(hide yes)
 				)
 			)
-			(property "Temperature Coefficient" "100 ppm/°C"
+			(property "Series" "ERJ-6ENF"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -4383,7 +4515,7 @@
 					(hide yes)
 				)
 			)
-			(property "Tolerance" "1%"
+			(property "Symbol Name" "R_ERJ-6ENF40R2V"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -4394,7 +4526,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6ENF40R2V"
+			(property "Temperature Coefficient" "100 ppm/°C"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -4405,8 +4537,30 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "150V"
+			(property "Tolerance" "1%"
 				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6ENF40R2V"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "150V"
+				(at 0 -40.64 0)
 				(show_name)
 				(effects
 					(font
@@ -4664,7 +4818,7 @@
 					(hide yes)
 				)
 			)
-			(property "Drain Current (A)" "0.2"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/SOT-323.step"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -4675,7 +4829,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "BSS123WQ-7-F"
+			(property "Drain Current (A)" "0.2"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -4686,7 +4840,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Diodes Incorporated"
+			(property "MPN" "BSS123WQ-7-F"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -4697,7 +4851,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "BSS123WQ-7-F"
+			(property "Manufacturer" "Diodes Incorporated"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -4708,7 +4862,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "Q_BSS123WQ-7-F"
+			(property "Series" "BSS123WQ-7-F"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -4719,7 +4873,7 @@
 					(hide yes)
 				)
 			)
-			(property "Transistor Type" "N-Channel"
+			(property "Symbol Name" "Q_BSS123WQ-7-F"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -4730,8 +4884,19 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSS123WQ-7-F"
+			(property "Transistor Type" "N-Channel"
 				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSS123WQ-7-F"
+				(at 0 -35.56 0)
 				(show_name)
 				(effects
 					(font
@@ -4919,7 +5084,7 @@
 					(hide yes)
 				)
 			)
-			(property "Drain Current (A)" "30.0"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/LFPAK56D-8.step"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -4930,7 +5095,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "BUK9K29-100E"
+			(property "Drain Current (A)" "30.0"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -4941,7 +5106,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Nexperia"
+			(property "MPN" "BUK9K29-100E"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -4952,7 +5117,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "BUK9K29-100E"
+			(property "Manufacturer" "Nexperia"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -4963,7 +5128,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "Q_BUK9K29-100E"
+			(property "Series" "BUK9K29-100E"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -4974,7 +5139,7 @@
 					(hide yes)
 				)
 			)
-			(property "Transistor Type" "N-Channel Dual"
+			(property "Symbol Name" "Q_BUK9K29-100E"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -4985,8 +5150,19 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BUK9K29-100E"
+			(property "Transistor Type" "N-Channel Dual"
 				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BUK9K29-100E"
+				(at 0 -35.56 0)
 				(show_name)
 				(effects
 					(font
@@ -5295,7 +5471,7 @@
 					(hide yes)
 				)
 			)
-			(property "Drain Current (A)" "18.0"
+			(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/LFPAK33-8.step"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -5306,7 +5482,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "PSMN075-100MSEX"
+			(property "Drain Current (A)" "18.0"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -5317,7 +5493,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Nexperia"
+			(property "MPN" "PSMN075-100MSEX"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -5328,7 +5504,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "PSMN075-100MSEX"
+			(property "Manufacturer" "Nexperia"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -5339,7 +5515,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "Q_PSMN075-100MSEX"
+			(property "Series" "PSMN075-100MSEX"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -5350,7 +5526,7 @@
 					(hide yes)
 				)
 			)
-			(property "Transistor Type" "N-Channel"
+			(property "Symbol Name" "Q_PSMN075-100MSEX"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -5361,8 +5537,19 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN075-100MSEX"
+			(property "Transistor Type" "N-Channel"
 				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN075-100MSEX"
+				(at 0 -35.56 0)
 				(show_name)
 				(effects
 					(font
@@ -7241,7 +7428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02dbfab2-fc51-41a5-ad32-774ee847bc06")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR12"
 			(at 254 194.31 0)
 			(effects
 				(font
@@ -7291,7 +7478,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR012")
+					(reference "#PWR12")
 					(unit 1)
 				)
 			)
@@ -7469,7 +7656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0705419e-1427-4891-825e-9746552058fd")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR7"
 			(at 208.28 127 0)
 			(effects
 				(font
@@ -7519,7 +7706,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR07")
+					(reference "#PWR7")
 					(unit 1)
 				)
 			)
@@ -7700,6 +7887,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0603.step"
+			(at 134.62 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 132.08 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24e1e9b3-5825-4d7b-b6b9-f087379bbe96")
 		)
@@ -7792,7 +7999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "155fba20-b8f2-4528-a940-6fd0e5d2a01c")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR8"
 			(at 218.44 118.11 0)
 			(effects
 				(font
@@ -7842,7 +8049,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR08")
+					(reference "#PWR8")
 					(unit 1)
 				)
 			)
@@ -7858,7 +8065,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18094b6b-fdd3-43c2-8c47-8350bac8af17")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR14"
 			(at 284.48 124.46 0)
 			(effects
 				(font
@@ -7908,7 +8115,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR014")
+					(reference "#PWR14")
 					(unit 1)
 				)
 			)
@@ -7933,7 +8140,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.3"
+		(property "Value" "3.3 Ω"
 			(at 185.42 147.3199 90)
 			(effects
 				(font
@@ -8080,6 +8287,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0805.step"
+			(at 200.66 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 208.28 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34f175eb-b026-48c8-9794-92ee540b7b43")
 		)
@@ -8114,7 +8341,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.3"
+		(property "Value" "3.3 Ω"
 			(at 149.86 147.3199 90)
 			(effects
 				(font
@@ -8261,6 +8488,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0805.step"
+			(at 165.1 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 172.72 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d656ef41-5d55-4ffc-8018-f9c74d3684ad")
 		)
@@ -8286,7 +8533,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2dc12e83-7a9c-44b0-b316-6644a901c9af")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR10"
 			(at 243.84 194.31 0)
 			(effects
 				(font
@@ -8336,7 +8583,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR010")
+					(reference "#PWR10")
 					(unit 1)
 				)
 			)
@@ -8352,7 +8599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "329de543-a025-4387-a9d7-1e5a3c933534")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR11"
 			(at 254 124.46 0)
 			(effects
 				(font
@@ -8402,7 +8649,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR011")
+					(reference "#PWR11")
 					(unit 1)
 				)
 			)
@@ -8570,7 +8817,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.3"
+		(property "Value" "3.3 Ω"
 			(at 287.02 102.8699 90)
 			(effects
 				(font
@@ -8709,6 +8956,26 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6DQJ3R3V"
 			(at 251.46 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0805.step"
+			(at 271.78 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 264.16 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9011,6 +9278,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0805.step"
+			(at 180.34 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 172.72 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "596f3617-dfe4-4a58-a9e9-28009f57b733")
 		)
@@ -9276,7 +9563,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5029f450-6f82-4f7e-aeba-1fd512ec750d")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR5"
 			(at 198.12 158.75 0)
 			(effects
 				(font
@@ -9326,7 +9613,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR05")
+					(reference "#PWR5")
 					(unit 1)
 				)
 			)
@@ -9489,6 +9776,26 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3EKF1000V"
 			(at 116.84 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0603.step"
+			(at 137.16 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 129.54 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9680,6 +9987,26 @@
 		)
 		(property "Voltage Rating" "100V"
 			(at 231.14 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1206.step"
+			(at 208.28 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 210.82 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10140,7 +10467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "769ffe04-673f-4918-9e32-f7e17169bca6")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR4"
 			(at 193.04 127 0)
 			(effects
 				(font
@@ -10190,7 +10517,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR04")
+					(reference "#PWR4")
 					(unit 1)
 				)
 			)
@@ -10317,6 +10644,16 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSS123WQ-7-F"
 			(at 177.8 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/SOT-323.step"
+			(at 177.8 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10726,7 +11063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85d26f27-47a3-4d8b-b24a-9c3f1515fec9")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR15"
 			(at 297.18 124.46 0)
 			(effects
 				(font
@@ -10776,7 +11113,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR015")
+					(reference "#PWR15")
 					(unit 1)
 				)
 			)
@@ -10831,7 +11168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "TVS SMD 58 V"
+		(property "Description" "Unidirectional TVS SMD 58 V"
 			(at 190.5 109.22 0)
 			(show_name yes)
 			(effects
@@ -10842,7 +11179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Diode Type" "TVS"
+		(property "Diode Type" "Unidirectional TVS"
 			(at 193.04 109.22 0)
 			(effects
 				(font
@@ -11172,6 +11509,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0603.step"
+			(at 224.79 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 224.79 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c0d553ca-8ed2-49e0-bf9d-c2658f5a14a2")
 		)
@@ -11264,7 +11621,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "992a954e-3164-445f-baf2-c5c38bc6efdc")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR16"
 			(at 309.88 124.46 0)
 			(effects
 				(font
@@ -11314,7 +11671,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR016")
+					(reference "#PWR16")
 					(unit 1)
 				)
 			)
@@ -11453,6 +11810,16 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/LFPAK56D-8.step"
+			(at 219.71 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "3a1531b1-4de3-4637-892d-c6483ad3bf9f")
 		)
@@ -11558,7 +11925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbbc9248-1ba1-45ee-a803-388911be0379")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR1"
 			(at 152.4 158.75 0)
 			(effects
 				(font
@@ -11608,7 +11975,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR01")
+					(reference "#PWR1")
 					(unit 1)
 				)
 			)
@@ -12177,7 +12544,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf6ae65b-f386-4b11-8278-ef7067c9d4f6")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR9"
 			(at 228.6 194.31 0)
 			(effects
 				(font
@@ -12227,7 +12594,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR09")
+					(reference "#PWR9")
 					(unit 1)
 				)
 			)
@@ -12415,6 +12782,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0402.step"
+			(at 238.76 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 236.22 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a931c5b5-4d9a-4007-8272-02b95b9ecc17")
 		)
@@ -12594,6 +12981,26 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0603.step"
+			(at 233.68 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 233.68 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "403c8778-e3d4-4c52-b1c3-302541fc712e")
 		)
@@ -12734,6 +13141,16 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BUK9K29-100E"
 			(at 234.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/LFPAK56D-8.step"
+			(at 219.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12898,6 +13315,16 @@
 				(hide yes)
 			)
 		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/LFPAK33-8.step"
+			(at 238.76 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "80646371-f298-45c5-bc4f-754127ad221a")
 		)
@@ -13003,7 +13430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0393b4f-75dd-4064-b715-42ccd42d3083")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR13"
 			(at 269.24 124.46 0)
 			(effects
 				(font
@@ -13053,7 +13480,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR013")
+					(reference "#PWR13")
 					(unit 1)
 				)
 			)
@@ -13069,7 +13496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e15c76e2-089e-425e-a464-9853a6a6c7cc")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR2"
 			(at 177.8 127 0)
 			(effects
 				(font
@@ -13119,7 +13546,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR02")
+					(reference "#PWR2")
 					(unit 1)
 				)
 			)
@@ -13135,7 +13562,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2d10cd9-9629-492a-a62a-92ecf4be4231")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR6"
 			(at 198.12 194.31 0)
 			(effects
 				(font
@@ -13185,7 +13612,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR06")
+					(reference "#PWR6")
 					(unit 1)
 				)
 			)
@@ -13202,7 +13629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6ebb5f8-4dcd-445a-970c-4665ec17369a")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR3"
 			(at 187.96 158.75 0)
 			(effects
 				(font
@@ -13252,7 +13679,7 @@
 		(instances
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
-					(reference "#PWR03")
+					(reference "#PWR3")
 					(unit 1)
 				)
 			)
@@ -13379,6 +13806,16 @@
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSS123WQ-7-F"
 			(at 142.24 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/SOT-323.step"
+			(at 142.24 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13853,6 +14290,26 @@
 		)
 		(property "Voltage Rating" "100V"
 			(at 246.38 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_0603.step"
+			(at 223.52 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 226.06 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
