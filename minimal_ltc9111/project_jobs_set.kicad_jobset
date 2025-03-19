@@ -1,0 +1,77 @@
+{
+  "jobs": [
+    {
+      "description": "",
+      "id": "95378783-5779-4eb4-ac7c-f1d0492197bb",
+      "settings": {
+        "board_only": false,
+        "board_outlines_chaining_epsilon": 0.01,
+        "cut_vias_in_body": false,
+        "description": "",
+        "export_board_body": true,
+        "export_components": true,
+        "export_inner_copper": false,
+        "export_pads": false,
+        "export_silkscreen": true,
+        "export_soldermask": true,
+        "export_tracks": false,
+        "export_zones": false,
+        "fill_all_vias": false,
+        "format": "brep",
+        "fuse_shapes": false,
+        "include_dnp": true,
+        "include_unspecified": true,
+        "occt_format": 1,
+        "optimize_step": true,
+        "output_filename": "minimal_ltc9111.glb",
+        "overwrite": false,
+        "subst_models": true,
+        "use_drill_origin": false,
+        "use_grid_origin": false,
+        "user_origin.x": 155.8925,
+        "user_origin.y": 105.156,
+        "vrml_model_dir": "",
+        "vrml_relative_paths": false
+      },
+      "type": "pcb_export_3d"
+    },
+    {
+      "description": "",
+      "id": "85abd6cd-7f15-475c-9e8b-ace210f24694",
+      "settings": {
+        "command": "kicad-cli pcb export vrml minimal_ltc9111.kicad_pcb",
+        "description": "",
+        "ignore_exit_code": false,
+        "output_filename": "85abd6cd-7f15-475c-9e8b-ace210f24694.log",
+        "record_output": true
+      },
+      "type": "special_execute"
+    },
+    {
+      "description": "",
+      "id": "e2434b26-48f7-413e-b56d-8fa503b39f0e",
+      "settings": {
+        "command": "kicad-cli pcb render minimal_ltc9111.kicad_pcb -o minimal_ltc9111_side.png --background transparent --quality high --rotate '-45,0,45' --zoom 1.6 --pan '0,0,0'",
+        "description": "",
+        "ignore_exit_code": false,
+        "output_filename": "e2434b26-48f7-413e-b56d-8fa503b39f0e.log",
+        "record_output": true
+      },
+      "type": "special_execute"
+    }
+  ],
+  "meta": {
+    "version": 1
+  },
+  "outputs": [
+    {
+      "description": "",
+      "id": "c81e57a2-77a4-4d20-b1ef-42fa1fbcbf02",
+      "only": [],
+      "settings": {
+        "output_path": "${KIPRJMOD}"
+      },
+      "type": "folder"
+    }
+  ]
+}
