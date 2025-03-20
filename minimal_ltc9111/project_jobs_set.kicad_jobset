@@ -35,6 +35,18 @@
         "record_output": true
       },
       "type": "special_execute"
+    },
+    {
+      "description": "",
+      "id": "722603b8-609e-4454-a1f2-b6061a6caf6a",
+      "settings": {
+        "command": "kicad-cli pcb render minimal_ltc9111.kicad_pcb -o minimal_ltc9111_top.png --side top --background transparent --quality high --zoom 1.6 --pan '0,0,0'",
+        "description": "",
+        "ignore_exit_code": false,
+        "output_filename": "",
+        "record_output": true
+      },
+      "type": "special_execute"
     }
   ],
   "meta": {
