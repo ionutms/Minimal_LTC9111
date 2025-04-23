@@ -2122,6 +2122,343 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "UNITED_CONNECTORS_DATA_BASE:J_FW-03-03-G-D-085-155"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 5.08 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "FW-03-03-G-D-085-155"
+				(at 5.08 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "connector_footprints:FW-03-03-G-D-085-155"
+				(at 5.08 -8.89 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
+				(at 5.08 -11.43 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  3 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+				(at 5.08 -13.97 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Color" "Black"
+				(at 5.08 -16.51 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Contact Plating" "Gold"
+				(at 5.08 -19.05 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Current Rating (A)" "5.2"
+				(at 5.08 -21.59 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "FW-03-03-G-D-085-155"
+				(at 5.08 -24.13 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Samtec"
+				(at 5.08 -26.67 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mounting Angle" "Vertical"
+				(at 5.08 -29.21 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mounting Style" "Surface Mount"
+				(at 5.08 -31.75 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Number of Rows" "2"
+				(at 5.08 -34.29 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Pin Count" "3"
+				(at 5.08 -36.83 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Pitch (mm)" "1.27"
+				(at 5.08 -39.37 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "FW-xx-03-G-D-085-155"
+				(at 5.08 -41.91 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "J_FW-03-03-G-D-085-155"
+				(at 5.08 -44.45 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-03-03-G-D-085-155"
+				(at 5.08 -46.99 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating (V)" "300"
+				(at 5.08 -49.53 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "J_FW-03-03-G-D-085-155_0_0"
+				(pin unspecified line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "J_FW-03-03-G-D-085-155_1_0"
+				(rectangle
+					(start -2.54 5.08)
+					(end 2.54 -5.08)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "UNITED_COUPLED_INDUCTORS_DATA_BASE:L_MSD1048-683ME"
 			(pin_names
 				(offset 0.254)
@@ -4386,6 +4723,169 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-50mil-250mil"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "MB"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Value" "mouse-bite-50mil-200mil"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "mouse_bite_footprints:mouse-bite-50mil-250mil"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "mouse-bite-50mil-250mil_1_1"
+				(arc
+					(start -9.9097 2.54)
+					(mid -7.6077 0)
+					(end -9.9097 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -9.9097 0)
+					(radius 0.3592)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -6.096 1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.826 3.81) (xy -8.382 3.81) (xy -8.382 4.572) (xy -9.906 3.81) (xy -8.382 3.048) (xy -8.382 3.81)
+						(xy -7.366 3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 3.81) (xy 8.89 3.81) (xy 8.89 3.048) (xy 10.414 3.81) (xy 8.89 4.572) (xy 8.89 3.81)
+						(xy 7.874 3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 6.604 1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 10.414 0)
+					(radius 0.3592)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 10.414 -2.54)
+					(mid 8.1117 0)
+					(end 10.414 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "250 mill"
+					(at 0.254 3.81 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(thickness 0.254)
+							(bold yes)
+						)
 					)
 				)
 			)
@@ -7602,10 +8102,16 @@
 		)
 	)
 	(junction
-		(at 137.16 95.25)
+		(at 133.35 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04776bb9-2f35-40b0-a3c9-211a3a756002")
+	)
+	(junction
+		(at 133.35 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07ad0611-534b-47fd-a380-38df8dbb79c2")
 	)
 	(junction
 		(at 292.1 170.18)
@@ -7614,10 +8120,16 @@
 		(uuid "0cf21782-3029-4bef-a50b-9e53b01aeef0")
 	)
 	(junction
-		(at 93.98 87.63)
+		(at 104.14 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fbb3ae5-72ee-4142-b00b-0b67c81d7cad")
+	)
+	(junction
+		(at 170.18 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10a66985-2ac4-4cbf-906c-c2e495e6468a")
 	)
 	(junction
 		(at 198.12 121.92)
@@ -7626,13 +8138,13 @@
 		(uuid "10b80e89-e4a5-4488-af0c-9e23843450bc")
 	)
 	(junction
-		(at 137.16 106.68)
+		(at 133.35 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1ac3373b-dbf3-4e92-b8e4-3a8480cc4538")
+		(uuid "1acff121-b407-457e-9d2f-77efae28f32c")
 	)
 	(junction
-		(at 53.34 107.95)
+		(at 67.31 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b958bc6-27b4-4804-8171-951510b2ed98")
@@ -7662,7 +8174,7 @@
 		(uuid "2c961161-b3c6-474e-96ba-c7ce08cba66e")
 	)
 	(junction
-		(at 27.94 116.84)
+		(at 41.91 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "300d1f23-bfc5-4e48-a8d6-14f937451ac5")
@@ -7674,19 +8186,19 @@
 		(uuid "3d2f2e0b-01e2-4b38-9585-20f07fdccf96")
 	)
 	(junction
-		(at 53.34 87.63)
+		(at 67.31 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43ad6dbc-4672-484e-9e71-ef055e56d050")
 	)
 	(junction
-		(at 149.86 120.65)
+		(at 146.05 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4417e445-9f4d-4e6a-b955-6a382102f190")
 	)
 	(junction
-		(at 149.86 95.25)
+		(at 146.05 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51581f08-4984-4c45-b9dd-49575da6425e")
@@ -7696,6 +8208,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "587a5dc0-764f-4bbf-988b-a3d48577555d")
+	)
+	(junction
+		(at 170.18 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59d3710d-55e1-482c-9642-3918a5ed7be3")
+	)
+	(junction
+		(at 146.05 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c57da3e-2754-4288-a289-0bff4fea886b")
 	)
 	(junction
 		(at 302.26 93.98)
@@ -7710,13 +8234,13 @@
 		(uuid "788739b0-9cbc-41b8-ab89-263ec2289cd0")
 	)
 	(junction
-		(at 137.16 120.65)
+		(at 133.35 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "833664ba-6d56-4c8a-b29b-e729501a2167")
 	)
 	(junction
-		(at 93.98 128.27)
+		(at 104.14 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86689682-7c75-462a-b1b3-3daa9c8af97d")
@@ -7728,7 +8252,7 @@
 		(uuid "86b309f1-1470-4ded-b932-94e3e25897cb")
 	)
 	(junction
-		(at 78.74 87.63)
+		(at 88.9 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e0414bc-ecf7-4e02-b0ce-3b6f3e1ab0d1")
@@ -7738,6 +8262,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8eb49ff1-b8c7-4bec-87d0-f8038b10d2ee")
+	)
+	(junction
+		(at 146.05 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93041522-7cb6-4670-bf4c-0edd05297881")
 	)
 	(junction
 		(at 364.49 115.57)
@@ -7776,28 +8306,22 @@
 		(uuid "a7529cd1-1a1e-42ad-b228-266d2e2923b8")
 	)
 	(junction
-		(at 137.16 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b0630b02-0c84-4d98-85c2-12248b2e3164")
-	)
-	(junction
 		(at 292.1 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2f9bf16-8071-4d2a-b876-0b06842a4ef6")
 	)
 	(junction
-		(at 170.18 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c0a0193e-89b6-4207-acbd-9efc2c0abae5")
-	)
-	(junction
-		(at 104.14 128.27)
+		(at 114.3 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cb9fdbec-4615-4b20-a2d9-89d685a54afb")
+	)
+	(junction
+		(at 26.67 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd072b0c-58b8-476e-a2b4-ad48fb4fce34")
 	)
 	(junction
 		(at 215.9 129.54)
@@ -7818,25 +8342,13 @@
 		(uuid "dea6c32c-3c2b-481c-b1b2-6457c90cc1a0")
 	)
 	(junction
-		(at 78.74 128.27)
+		(at 88.9 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2ea2708-58c8-4e7e-b821-d08728c2e191")
 	)
 	(junction
-		(at 170.18 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e85fe0b1-dd5f-46fe-bfa2-0ed00b91b53d")
-	)
-	(junction
-		(at 149.86 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ec80df20-f8ac-49a5-98fb-7a4b931ec076")
-	)
-	(junction
-		(at 104.14 87.63)
+		(at 114.3 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f10e039f-0238-4cd7-ab2e-d3c7ae682acb")
@@ -7897,17 +8409,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 87.63) (xy 170.18 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0255daa7-e11b-48ca-b3ee-0d173a063d48")
-	)
-	(wire
-		(pts
-			(xy 78.74 125.73) (xy 78.74 128.27)
+			(xy 88.9 125.73) (xy 88.9 128.27)
 		)
 		(stroke
 			(width 0)
@@ -7917,13 +8419,23 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 107.95) (xy 66.04 128.27)
+			(xy 80.01 107.95) (xy 80.01 128.27)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "06163bcd-d533-4a25-a753-5fe60b01a898")
+	)
+	(wire
+		(pts
+			(xy 26.67 110.49) (xy 26.67 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06bdfc6c-c981-4af5-8449-0c996e2e5104")
 	)
 	(wire
 		(pts
@@ -7937,7 +8449,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 101.6) (xy 149.86 101.6)
+			(xy 144.78 78.74) (xy 146.05 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7947,7 +8459,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 116.84) (xy 40.64 116.84)
+			(xy 57.15 116.84) (xy 54.61 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7977,7 +8489,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 120.65) (xy 149.86 120.65)
+			(xy 133.35 133.35) (xy 146.05 133.35)
 		)
 		(stroke
 			(width 0)
@@ -7987,7 +8499,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 110.49) (xy 27.94 116.84)
+			(xy 41.91 110.49) (xy 41.91 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8017,7 +8529,17 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 109.22) (xy 137.16 109.22)
+			(xy 22.86 107.95) (xy 29.21 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "130c5814-ff40-4f9f-89f1-adf7243f3a87")
+	)
+	(wire
+		(pts
+			(xy 129.54 143.51) (xy 133.35 143.51)
 		)
 		(stroke
 			(width 0)
@@ -8037,7 +8559,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 116.84) (xy 137.16 120.65)
+			(xy 133.35 137.16) (xy 133.35 133.35)
 		)
 		(stroke
 			(width 0)
@@ -8047,7 +8569,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 95.25) (xy 137.16 99.06)
+			(xy 133.35 72.39) (xy 133.35 76.2)
 		)
 		(stroke
 			(width 0)
@@ -8057,7 +8579,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 106.68) (xy 137.16 106.68)
+			(xy 128.27 82.55) (xy 133.35 82.55)
 		)
 		(stroke
 			(width 0)
@@ -8067,7 +8589,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 105.41) (xy 43.18 105.41)
+			(xy 39.37 105.41) (xy 57.15 105.41)
 		)
 		(stroke
 			(width 0)
@@ -8077,7 +8599,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 101.6) (xy 149.86 106.68)
+			(xy 146.05 78.74) (xy 146.05 82.55)
 		)
 		(stroke
 			(width 0)
@@ -8097,7 +8619,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 101.6) (xy 137.16 106.68)
+			(xy 133.35 78.74) (xy 133.35 82.55)
 		)
 		(stroke
 			(width 0)
@@ -8107,7 +8629,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 99.06) (xy 148.59 99.06)
+			(xy 146.05 76.2) (xy 144.78 76.2)
 		)
 		(stroke
 			(width 0)
@@ -8197,7 +8719,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 87.63) (xy 170.18 87.63)
+			(xy 114.3 87.63) (xy 170.18 87.63)
 		)
 		(stroke
 			(width 0)
@@ -8237,6 +8759,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 139.7) (xy 148.59 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "281624e6-21ba-44a7-b584-53108be1e2a3")
+	)
+	(wire
+		(pts
 			(xy 302.26 175.26) (xy 302.26 170.18)
 		)
 		(stroke
@@ -8257,7 +8789,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 87.63) (xy 93.98 100.33)
+			(xy 104.14 87.63) (xy 104.14 100.33)
 		)
 		(stroke
 			(width 0)
@@ -8277,7 +8809,27 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 87.63) (xy 53.34 90.17)
+			(xy 22.86 105.41) (xy 29.21 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ec056f1-8777-416d-84c9-245c21fd6be2")
+	)
+	(wire
+		(pts
+			(xy 170.18 133.35) (xy 170.18 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "336d9c62-85d6-46eb-9419-5df6a23bba8e")
+	)
+	(wire
+		(pts
+			(xy 67.31 87.63) (xy 67.31 90.17)
 		)
 		(stroke
 			(width 0)
@@ -8297,7 +8849,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 99.06) (xy 138.43 99.06)
+			(xy 133.35 76.2) (xy 134.62 76.2)
 		)
 		(stroke
 			(width 0)
@@ -8337,7 +8889,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 119.38) (xy 43.18 116.84)
+			(xy 57.15 119.38) (xy 57.15 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8367,7 +8919,17 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 118.11) (xy 53.34 119.38)
+			(xy 133.35 143.51) (xy 146.05 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d0ebd7b-f082-478a-98cc-c8641d1ab7ec")
+	)
+	(wire
+		(pts
+			(xy 67.31 118.11) (xy 67.31 119.38)
 		)
 		(stroke
 			(width 0)
@@ -8377,7 +8939,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 109.22) (xy 137.16 114.3)
+			(xy 133.35 143.51) (xy 133.35 139.7)
 		)
 		(stroke
 			(width 0)
@@ -8397,7 +8959,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 87.63) (xy 78.74 87.63)
+			(xy 67.31 87.63) (xy 88.9 87.63)
 		)
 		(stroke
 			(width 0)
@@ -8407,7 +8969,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 116.84) (xy 137.16 116.84)
+			(xy 134.62 137.16) (xy 133.35 137.16)
 		)
 		(stroke
 			(width 0)
@@ -8427,7 +8989,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 106.68) (xy 149.86 106.68)
+			(xy 148.59 78.74) (xy 146.05 78.74)
 		)
 		(stroke
 			(width 0)
@@ -8447,7 +9009,17 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 116.84) (xy 149.86 116.84)
+			(xy 22.86 110.49) (xy 26.67 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "557af7c2-cbb5-4dba-9ca9-54a0e87bf19b")
+	)
+	(wire
+		(pts
+			(xy 144.78 137.16) (xy 146.05 137.16)
 		)
 		(stroke
 			(width 0)
@@ -8457,7 +9029,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 87.63) (xy 104.14 100.33)
+			(xy 114.3 87.63) (xy 114.3 100.33)
 		)
 		(stroke
 			(width 0)
@@ -8467,7 +9039,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 87.63) (xy 78.74 87.63)
+			(xy 104.14 87.63) (xy 88.9 87.63)
 		)
 		(stroke
 			(width 0)
@@ -8527,7 +9099,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 120.65) (xy 170.18 120.65)
+			(xy 146.05 133.35) (xy 170.18 133.35)
 		)
 		(stroke
 			(width 0)
@@ -8557,16 +9129,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 100.33) (xy 170.18 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67162c13-6da3-47fb-8ef6-662a80443b16")
-	)
-	(wire
-		(pts
 			(xy 332.74 78.74) (xy 332.74 93.98)
 		)
 		(stroke
@@ -8587,13 +9149,23 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 114.3) (xy 149.86 114.3)
+			(xy 144.78 139.7) (xy 146.05 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "68aa7bc9-7310-4440-80b1-9ca6031c81b0")
+	)
+	(wire
+		(pts
+			(xy 170.18 87.63) (xy 170.18 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a6023cd-9577-4ab9-8514-f2a9ee6047d4")
 	)
 	(wire
 		(pts
@@ -8607,7 +9179,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 110.49) (xy 25.4 110.49)
+			(xy 41.91 110.49) (xy 39.37 110.49)
 		)
 		(stroke
 			(width 0)
@@ -8627,7 +9199,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 95.25) (xy 170.18 95.25)
+			(xy 146.05 72.39) (xy 170.18 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8717,7 +9289,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 107.95) (xy 53.34 107.95)
+			(xy 39.37 107.95) (xy 67.31 107.95)
 		)
 		(stroke
 			(width 0)
@@ -8737,7 +9309,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 110.49) (xy 53.34 107.95)
+			(xy 67.31 110.49) (xy 67.31 107.95)
 		)
 		(stroke
 			(width 0)
@@ -8767,6 +9339,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 110.49) (xy 29.21 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82c2063b-426a-4b2d-998d-999159d6e002")
+	)
+	(wire
+		(pts
 			(xy 185.42 93.98) (xy 185.42 129.54)
 		)
 		(stroke
@@ -8777,7 +9359,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 107.95) (xy 154.94 106.68)
+			(xy 148.59 80.01) (xy 148.59 78.74)
 		)
 		(stroke
 			(width 0)
@@ -8807,7 +9389,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 95.25) (xy 137.16 95.25)
+			(xy 128.27 72.39) (xy 133.35 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8847,7 +9429,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 107.95) (xy 66.04 107.95)
+			(xy 67.31 107.95) (xy 80.01 107.95)
 		)
 		(stroke
 			(width 0)
@@ -8877,7 +9459,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 128.27) (xy 78.74 128.27)
+			(xy 80.01 128.27) (xy 88.9 128.27)
 		)
 		(stroke
 			(width 0)
@@ -8917,17 +9499,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 106.68) (xy 137.16 109.22)
+			(xy 146.05 143.51) (xy 146.05 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9b4fe2a0-8f95-40ed-b140-21973798fbc1")
+		(uuid "9a507430-14e7-42fb-83dc-72b16c417ee7")
 	)
 	(wire
 		(pts
-			(xy 53.34 97.79) (xy 53.34 99.06)
+			(xy 67.31 97.79) (xy 67.31 99.06)
 		)
 		(stroke
 			(width 0)
@@ -8997,16 +9579,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 115.57) (xy 170.18 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a45b17e0-e3ca-4dac-9dc1-55d5b4e10250")
-	)
-	(wire
-		(pts
 			(xy 364.49 115.57) (xy 361.95 115.57)
 		)
 		(stroke
@@ -9014,16 +9586,6 @@
 			(type default)
 		)
 		(uuid "a67db122-59c5-413c-944a-35e8c07eb264")
-	)
-	(wire
-		(pts
-			(xy 170.18 128.27) (xy 170.18 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a75c7c7e-341b-4b06-9e0d-9b34b487c8b8")
 	)
 	(wire
 		(pts
@@ -9097,7 +9659,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 120.65) (xy 137.16 120.65)
+			(xy 128.27 133.35) (xy 133.35 133.35)
 		)
 		(stroke
 			(width 0)
@@ -9114,6 +9676,16 @@
 			(type default)
 		)
 		(uuid "b7688a17-a4c1-4144-aa96-de836c31e6d8")
+	)
+	(wire
+		(pts
+			(xy 170.18 72.39) (xy 170.18 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8e42f59-1253-4473-a290-c0f4132419fb")
 	)
 	(wire
 		(pts
@@ -9137,7 +9709,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 101.6) (xy 137.16 101.6)
+			(xy 134.62 78.74) (xy 133.35 78.74)
 		)
 		(stroke
 			(width 0)
@@ -9147,7 +9719,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 115.57) (xy 104.14 128.27)
+			(xy 114.3 115.57) (xy 114.3 128.27)
 		)
 		(stroke
 			(width 0)
@@ -9164,6 +9736,16 @@
 			(type default)
 		)
 		(uuid "c3bb185e-e718-4960-a22d-c30d53c0fe85")
+	)
+	(wire
+		(pts
+			(xy 170.18 115.57) (xy 170.18 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4277616-c65f-4ee2-b7af-9f0d8b1b7467")
 	)
 	(wire
 		(pts
@@ -9207,7 +9789,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 87.63) (xy 78.74 90.17)
+			(xy 88.9 87.63) (xy 88.9 90.17)
 		)
 		(stroke
 			(width 0)
@@ -9217,7 +9799,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 114.3) (xy 138.43 114.3)
+			(xy 133.35 139.7) (xy 134.62 139.7)
 		)
 		(stroke
 			(width 0)
@@ -9237,7 +9819,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 116.84) (xy 27.94 119.38)
+			(xy 41.91 116.84) (xy 41.91 119.38)
 		)
 		(stroke
 			(width 0)
@@ -9267,7 +9849,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 116.84) (xy 149.86 120.65)
+			(xy 146.05 137.16) (xy 146.05 133.35)
 		)
 		(stroke
 			(width 0)
@@ -9277,7 +9859,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 116.84) (xy 30.48 116.84)
+			(xy 41.91 116.84) (xy 44.45 116.84)
 		)
 		(stroke
 			(width 0)
@@ -9294,6 +9876,16 @@
 			(type default)
 		)
 		(uuid "da617034-243a-4a76-811a-5f235c422c69")
+	)
+	(wire
+		(pts
+			(xy 148.59 140.97) (xy 148.59 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbba6ce9-e536-4f9b-8932-1dee33388207")
 	)
 	(wire
 		(pts
@@ -9347,7 +9939,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 87.63) (xy 43.18 105.41)
+			(xy 57.15 87.63) (xy 57.15 105.41)
 		)
 		(stroke
 			(width 0)
@@ -9417,7 +10009,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 95.25) (xy 149.86 99.06)
+			(xy 146.05 72.39) (xy 146.05 76.2)
 		)
 		(stroke
 			(width 0)
@@ -9427,7 +10019,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 115.57) (xy 93.98 128.27)
+			(xy 104.14 115.57) (xy 104.14 128.27)
 		)
 		(stroke
 			(width 0)
@@ -9437,23 +10029,13 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 87.63) (xy 53.34 87.63)
+			(xy 57.15 87.63) (xy 67.31 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f357deca-c6e1-4428-9d84-a300e2a55791")
-	)
-	(wire
-		(pts
-			(xy 149.86 114.3) (xy 149.86 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3d18589-dd60-4054-a983-0b8559c953cb")
 	)
 	(wire
 		(pts
@@ -9467,7 +10049,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 95.25) (xy 149.86 95.25)
+			(xy 133.35 72.39) (xy 146.05 72.39)
 		)
 		(stroke
 			(width 0)
@@ -9487,7 +10069,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 128.27) (xy 170.18 128.27)
+			(xy 114.3 128.27) (xy 170.18 128.27)
 		)
 		(stroke
 			(width 0)
@@ -9507,7 +10089,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 128.27) (xy 93.98 128.27)
+			(xy 88.9 128.27) (xy 104.14 128.27)
 		)
 		(stroke
 			(width 0)
@@ -9537,7 +10119,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 110.49) (xy 78.74 115.57)
+			(xy 88.9 110.49) (xy 88.9 115.57)
 		)
 		(stroke
 			(width 0)
@@ -9557,7 +10139,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 106.68) (xy 149.86 106.68)
+			(xy 133.35 82.55) (xy 146.05 82.55)
 		)
 		(stroke
 			(width 0)
@@ -9586,7 +10168,7 @@
 		(uuid "103749f4-addb-41a7-bf4c-af221853b66a")
 	)
 	(label "CABLE-"
-		(at 27.94 107.95 0)
+		(at 41.91 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9596,7 +10178,7 @@
 		(uuid "109ad296-2185-4579-928d-ea9598ca0459")
 	)
 	(label "POWER_IN_N"
-		(at 157.48 120.65 0)
+		(at 157.48 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9604,6 +10186,16 @@
 			(justify left bottom)
 		)
 		(uuid "15c4faa5-a242-47cb-9b69-e29ab7071b42")
+	)
+	(label "CABLE+"
+		(at 29.21 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1656e9f6-2340-42d7-b956-75c8be4d9fcf")
 	)
 	(label "POWER_P"
 		(at 187.96 93.98 0)
@@ -9635,6 +10227,16 @@
 		)
 		(uuid "29ac4628-a2a3-409c-a92d-a7fca628a22e")
 	)
+	(label "CABLE-"
+		(at 29.21 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5e1871a5-212a-4329-a416-3f392eff35da")
+	)
 	(label "BULK_OUT"
 		(at 335.28 106.68 0)
 		(effects
@@ -9656,7 +10258,7 @@
 		(uuid "8f4eec2c-0bc3-4d59-80ce-329109d0bcb6")
 	)
 	(label "CABLE+"
-		(at 27.94 105.41 0)
+		(at 41.91 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9696,7 +10298,7 @@
 		(uuid "c5d31149-8089-417c-a458-2f71121788a7")
 	)
 	(label "POWER_IN_P"
-		(at 157.48 95.25 0)
+		(at 157.48 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9863,6 +10465,72 @@
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
 					(reference "#PWR12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 26.67 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "059a0cfc-aa3e-402a-b76f-917704d4762a")
+		(property "Reference" "#PWR023"
+			(at 26.67 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Earth"
+			(at 26.67 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 26.67 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 26.67 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bb03a39c-32c9-4c26-8cb0-83717d925289")
+		)
+		(instances
+			(project "minimal_ltc9111"
+				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -10091,6 +10759,73 @@
 			(project "minimal_ltc9111"
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
 					(reference "#PWR7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 148.59 140.97 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "08d0ce07-441e-430d-8900-09ee60e87e2c")
+		(property "Reference" "#PWR022"
+			(at 148.59 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "580046e8-aaef-4d94-b992-d08134db0c3b")
+		)
+		(instances
+			(project "minimal_ltc9111"
+				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -10440,7 +11175,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 43.18 119.38 0)
+		(at 57.15 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10449,7 +11184,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f5e5def-1aa6-4f49-95f9-91e0083dceda")
 		(property "Reference" "#PWR020"
-			(at 43.18 125.73 0)
+			(at 57.15 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10458,7 +11193,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 43.18 124.46 0)
+			(at 57.15 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10466,7 +11201,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 43.18 119.38 0)
+			(at 57.15 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10475,7 +11210,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 119.38 0)
+			(at 57.15 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10484,7 +11219,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 43.18 119.38 0)
+			(at 57.15 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10707,7 +11442,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_RESISTORS_DATA_BASE:R_ERJ-3EKF1002V")
-		(at 99.06 128.27 0)
+		(at 109.22 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10716,7 +11451,7 @@
 		(fields_autoplaced yes)
 		(uuid "21e8a12c-3713-471d-80f7-e2506af0edd4")
 		(property "Reference" "R8"
-			(at 99.06 132.08 0)
+			(at 109.22 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10724,7 +11459,7 @@
 			)
 		)
 		(property "Value" "10 kΩ"
-			(at 99.06 134.62 0)
+			(at 109.22 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10732,7 +11467,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0603_1608Metric"
-			(at 99.06 133.35 0)
+			(at 109.22 133.35 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10743,7 +11478,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
-			(at 99.06 135.89 0)
+			(at 109.22 135.89 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10754,7 +11489,7 @@
 			)
 		)
 		(property "Description" "RES SMD 10 kΩ 1% 0603 75V"
-			(at 99.06 138.43 0)
+			(at 109.22 138.43 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10765,7 +11500,7 @@
 			)
 		)
 		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0603.step"
-			(at 99.06 140.97 0)
+			(at 109.22 140.97 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10776,7 +11511,7 @@
 			)
 		)
 		(property "Case Code - in" "0603"
-			(at 99.06 143.51 0)
+			(at 109.22 143.51 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10787,7 +11522,7 @@
 			)
 		)
 		(property "Case Code - mm" "1608"
-			(at 99.06 146.05 0)
+			(at 109.22 146.05 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10798,7 +11533,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 99.06 148.59 0)
+			(at 109.22 148.59 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10809,7 +11544,7 @@
 			)
 		)
 		(property "MPN" "ERJ-3EKF1002V"
-			(at 99.06 151.13 0)
+			(at 109.22 151.13 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10820,7 +11555,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 99.06 153.67 0)
+			(at 109.22 153.67 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10831,7 +11566,7 @@
 			)
 		)
 		(property "Series" "ERJ-3EKF"
-			(at 99.06 156.21 0)
+			(at 109.22 156.21 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10842,7 +11577,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-3EKF1002V"
-			(at 99.06 158.75 0)
+			(at 109.22 158.75 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10853,7 +11588,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "100 ppm/°C"
-			(at 99.06 161.29 0)
+			(at 109.22 161.29 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10864,7 +11599,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 99.06 163.83 0)
+			(at 109.22 163.83 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10875,7 +11610,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3EKF1002V"
-			(at 99.06 166.37 0)
+			(at 109.22 166.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10886,7 +11621,7 @@
 			)
 		)
 		(property "Voltage Rating" "75V"
-			(at 99.06 168.91 0)
+			(at 109.22 168.91 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11114,7 +11849,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_DIODES_DATA_BASE:D_SP4020-01FTG-C")
-		(at 78.74 100.33 90)
+		(at 88.9 100.33 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11123,7 +11858,7 @@
 		(fields_autoplaced yes)
 		(uuid "27efe906-404f-4322-a662-40e1b1bca1be")
 		(property "Reference" "D5"
-			(at 86.36 99.0599 90)
+			(at 96.52 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11132,7 +11867,7 @@
 			)
 		)
 		(property "Value" "3.3 V"
-			(at 86.36 101.5999 90)
+			(at 96.52 101.5999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11141,50 +11876,6 @@
 			)
 		)
 		(property "Footprint" "diode_footprints:SOD323"
-			(at 88.9 100.33 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.littelfuse.com/assetdocs/tvs-diode-array-sp4020-datasheet?assetguid=b6e2c598-7d86-4fa2-a063-fb053ce07713"
-			(at 91.44 100.33 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Bidirectional TVS SMD 3.3 V"
-			(at 93.98 100.33 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Diode Type" "Bidirectional TVS"
-			(at 96.52 100.33 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SP4020-01FTG-C"
 			(at 99.06 100.33 0)
 			(show_name yes)
 			(effects
@@ -11195,7 +11886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Littelfuse"
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/tvs-diode-array-sp4020-datasheet?assetguid=b6e2c598-7d86-4fa2-a063-fb053ce07713"
 			(at 101.6 100.33 0)
 			(show_name yes)
 			(effects
@@ -11206,7 +11897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Maximum DC Current (A)" "0.0"
+		(property "Description" "Bidirectional TVS SMD 3.3 V"
 			(at 104.14 100.33 0)
 			(show_name yes)
 			(effects
@@ -11217,7 +11908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "SP4020-01FTG-C"
+		(property "Diode Type" "Bidirectional TVS"
 			(at 106.68 100.33 0)
 			(show_name yes)
 			(effects
@@ -11228,7 +11919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "D_SP4020-01FTG-C"
+		(property "MPN" "SP4020-01FTG-C"
 			(at 109.22 100.33 0)
 			(show_name yes)
 			(effects
@@ -11239,8 +11930,52 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/SP4020-01FTG-C"
+		(property "Manufacturer" "Littelfuse"
 			(at 111.76 100.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Current (A)" "0.0"
+			(at 114.3 100.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "SP4020-01FTG-C"
+			(at 116.84 100.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "D_SP4020-01FTG-C"
+			(at 119.38 100.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/SP4020-01FTG-C"
+			(at 121.92 100.33 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11333,7 +12068,8 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 132.08 120.65 90)
+		(at 128.27 133.35 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11341,7 +12077,7 @@
 		(dnp no)
 		(uuid "2f0e5d69-03d7-4503-8bbc-8b0ca99c5796")
 		(property "Reference" "TP5"
-			(at 127 120.6501 90)
+			(at 123.19 133.3499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11350,7 +12086,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 129.54 118.11 0)
+			(at 125.73 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11360,7 +12096,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 137.16 118.11 0)
+			(at 133.35 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11370,7 +12106,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 118.11 0)
+			(at 128.27 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11380,7 +12116,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 134.62 118.11 0)
+			(at 130.81 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11403,7 +12139,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 27.94 119.38 0)
+		(at 41.91 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11412,7 +12148,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fdda6aa-594d-40c2-a321-e606bbed98ad")
 		(property "Reference" "#PWR021"
-			(at 27.94 125.73 0)
+			(at 41.91 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11421,7 +12157,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 27.94 124.46 0)
+			(at 41.91 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11429,7 +12165,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 119.38 0)
+			(at 41.91 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11438,7 +12174,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 119.38 0)
+			(at 41.91 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11447,7 +12183,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 27.94 119.38 0)
+			(at 41.91 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11679,7 +12415,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 25.4 107.95 90)
+		(at 22.86 107.95 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11688,7 +12424,7 @@
 		(dnp no)
 		(uuid "38eada86-617f-41e9-a83d-aa29fb809cd4")
 		(property "Reference" "TP8"
-			(at 20.32 107.9499 90)
+			(at 17.78 107.9499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11697,7 +12433,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 22.86 110.49 0)
+			(at 20.32 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11707,7 +12443,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 30.48 110.49 0)
+			(at 27.94 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11717,7 +12453,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 110.49 0)
+			(at 22.86 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11727,7 +12463,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 27.94 110.49 0)
+			(at 25.4 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11950,7 +12686,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 133.35 106.68 90)
+		(at 128.27 82.55 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11959,7 +12695,7 @@
 		(dnp no)
 		(uuid "3d8492aa-cda4-422e-a3ec-d482dd390435")
 		(property "Reference" "TP3"
-			(at 128.27 106.6799 90)
+			(at 123.19 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11968,7 +12704,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 130.81 109.22 0)
+			(at 125.73 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11978,7 +12714,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 138.43 109.22 0)
+			(at 133.35 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11988,7 +12724,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 109.22 0)
+			(at 128.27 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11998,7 +12734,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 135.89 109.22 0)
+			(at 130.81 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12335,7 +13071,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_RESISTORS_DATA_BASE:R_ERJ-3EKF1002V")
-		(at 99.06 87.63 0)
+		(at 109.22 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12344,7 +13080,7 @@
 		(fields_autoplaced yes)
 		(uuid "4d12f535-ca4c-4c95-b150-621af5fe857a")
 		(property "Reference" "R7"
-			(at 99.06 81.28 0)
+			(at 109.22 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12352,7 +13088,7 @@
 			)
 		)
 		(property "Value" "10 kΩ"
-			(at 99.06 83.82 0)
+			(at 109.22 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12360,7 +13096,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0603_1608Metric"
-			(at 99.06 92.71 0)
+			(at 109.22 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12371,7 +13107,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
-			(at 99.06 95.25 0)
+			(at 109.22 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12382,7 +13118,7 @@
 			)
 		)
 		(property "Description" "RES SMD 10 kΩ 1% 0603 75V"
-			(at 99.06 97.79 0)
+			(at 109.22 97.79 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12393,7 +13129,7 @@
 			)
 		)
 		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_0603.step"
-			(at 99.06 100.33 0)
+			(at 109.22 100.33 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12404,7 +13140,7 @@
 			)
 		)
 		(property "Case Code - in" "0603"
-			(at 99.06 102.87 0)
+			(at 109.22 102.87 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12415,7 +13151,7 @@
 			)
 		)
 		(property "Case Code - mm" "1608"
-			(at 99.06 105.41 0)
+			(at 109.22 105.41 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12426,7 +13162,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 99.06 107.95 0)
+			(at 109.22 107.95 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12437,7 +13173,7 @@
 			)
 		)
 		(property "MPN" "ERJ-3EKF1002V"
-			(at 99.06 110.49 0)
+			(at 109.22 110.49 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12448,7 +13184,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 99.06 113.03 0)
+			(at 109.22 113.03 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12459,7 +13195,7 @@
 			)
 		)
 		(property "Series" "ERJ-3EKF"
-			(at 99.06 115.57 0)
+			(at 109.22 115.57 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12470,7 +13206,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-3EKF1002V"
-			(at 99.06 118.11 0)
+			(at 109.22 118.11 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12481,7 +13217,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "100 ppm/°C"
-			(at 99.06 120.65 0)
+			(at 109.22 120.65 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12492,7 +13228,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 99.06 123.19 0)
+			(at 109.22 123.19 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12503,7 +13239,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3EKF1002V"
-			(at 99.06 125.73 0)
+			(at 109.22 125.73 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12514,7 +13250,7 @@
 			)
 		)
 		(property "Voltage Rating" "75V"
-			(at 99.06 128.27 0)
+			(at 109.22 128.27 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12758,8 +13494,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 133.35 109.22 90)
-		(mirror x)
+		(at 129.54 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12767,7 +13502,7 @@
 		(dnp no)
 		(uuid "523ac899-7fce-4c20-b8ce-d29aaf521c69")
 		(property "Reference" "TP6"
-			(at 128.27 109.2199 90)
+			(at 124.46 143.5101 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12776,7 +13511,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 130.81 111.76 0)
+			(at 127 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12786,7 +13521,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 138.43 111.76 0)
+			(at 134.62 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12796,7 +13531,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 111.76 0)
+			(at 129.54 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12806,7 +13541,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 135.89 111.76 0)
+			(at 132.08 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13240,7 +13975,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 53.34 119.38 0)
+		(at 67.31 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13249,7 +13984,7 @@
 		(fields_autoplaced yes)
 		(uuid "62b282c3-2df6-4fec-add5-5428c0df1240")
 		(property "Reference" "#PWR019"
-			(at 53.34 125.73 0)
+			(at 67.31 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13258,7 +13993,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 53.34 124.46 0)
+			(at 67.31 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13266,7 +14001,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 119.38 0)
+			(at 67.31 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13275,7 +14010,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 119.38 0)
+			(at 67.31 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13284,7 +14019,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 53.34 119.38 0)
+			(at 67.31 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13517,7 +14252,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_COUPLED_INDUCTORS_DATA_BASE:L_SRF0905A-471Y")
-		(at 99.06 107.95 90)
+		(at 109.22 107.95 90)
 		(unit 1)
 		(convert 2)
 		(exclude_from_sim no)
@@ -13527,7 +14262,7 @@
 		(fields_autoplaced yes)
 		(uuid "6848452a-dae0-49c0-8c2f-32b75674afeb")
 		(property "Reference" "L2"
-			(at 105.41 106.6799 90)
+			(at 115.57 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13536,7 +14271,7 @@
 			)
 		)
 		(property "Value" "470 µH"
-			(at 105.41 109.2199 90)
+			(at 115.57 109.2199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13545,50 +14280,6 @@
 			)
 		)
 		(property "Footprint" "coupled_inductor_footprints:SRF0905A"
-			(at 109.22 107.95 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://bourns.com/docs/product-datasheets/srf0905a.pdf"
-			(at 111.76 107.95 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "COUPLED INDUCTOR SMD 470 µH ±20%"
-			(at 114.3 107.95 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SRF0905A-471Y"
-			(at 116.84 107.95 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
 			(at 119.38 107.95 0)
 			(show_name yes)
 			(effects
@@ -13599,7 +14290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Maximum DC Current (A)" "1.1"
+		(property "Datasheet" "https://bourns.com/docs/product-datasheets/srf0905a.pdf"
 			(at 121.92 107.95 0)
 			(show_name yes)
 			(effects
@@ -13610,7 +14301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Maximum DC Resistance (Ω)" "0.140"
+		(property "Description" "COUPLED INDUCTOR SMD 470 µH ±20%"
 			(at 124.46 107.95 0)
 			(show_name yes)
 			(effects
@@ -13621,7 +14312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "SRF0905A"
+		(property "MPN" "SRF0905A-471Y"
 			(at 127 107.95 0)
 			(show_name yes)
 			(effects
@@ -13632,7 +14323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "L_SRF0905A-471Y"
+		(property "Manufacturer" "Bourns"
 			(at 129.54 107.95 0)
 			(show_name yes)
 			(effects
@@ -13643,7 +14334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "±20%"
+		(property "Maximum DC Current (A)" "1.1"
 			(at 132.08 107.95 0)
 			(show_name yes)
 			(effects
@@ -13654,8 +14345,52 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/SRF0905A-471Y"
+		(property "Maximum DC Resistance (Ω)" "0.140"
 			(at 134.62 107.95 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "SRF0905A"
+			(at 137.16 107.95 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "L_SRF0905A-471Y"
+			(at 139.7 107.95 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±20%"
+			(at 142.24 107.95 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/SRF0905A-471Y"
+			(at 144.78 107.95 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13688,7 +14423,8 @@
 	)
 	(symbol
 		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
-		(at 143.51 115.57 0)
+		(at 139.7 138.43 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13697,7 +14433,7 @@
 		(fields_autoplaced yes)
 		(uuid "690cd9ab-586f-41c6-8fab-2f0319315960")
 		(property "Reference" "J3"
-			(at 143.51 106.68 0)
+			(at 139.7 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13705,7 +14441,7 @@
 			)
 		)
 		(property "Value" "FW-02-03-G-D-085-155"
-			(at 143.51 109.22 0)
+			(at 139.7 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13713,7 +14449,7 @@
 			)
 		)
 		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
-			(at 148.59 123.19 0)
+			(at 144.78 130.81 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13724,7 +14460,7 @@
 			)
 		)
 		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
-			(at 148.59 125.73 0)
+			(at 144.78 128.27 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13735,7 +14471,7 @@
 			)
 		)
 		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
-			(at 148.59 128.27 0)
+			(at 144.78 125.73 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13746,7 +14482,7 @@
 			)
 		)
 		(property "Color" "Black"
-			(at 148.59 130.81 0)
+			(at 144.78 123.19 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13757,7 +14493,7 @@
 			)
 		)
 		(property "Contact Plating" "Gold"
-			(at 148.59 133.35 0)
+			(at 144.78 120.65 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13768,7 +14504,7 @@
 			)
 		)
 		(property "Current Rating (A)" "5.2"
-			(at 148.59 135.89 0)
+			(at 144.78 118.11 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13779,7 +14515,7 @@
 			)
 		)
 		(property "MPN" "FW-02-03-G-D-085-155"
-			(at 148.59 138.43 0)
+			(at 144.78 115.57 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13790,7 +14526,7 @@
 			)
 		)
 		(property "Manufacturer" "Samtec"
-			(at 148.59 140.97 0)
+			(at 144.78 113.03 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13801,7 +14537,7 @@
 			)
 		)
 		(property "Mounting Angle" "Vertical"
-			(at 148.59 143.51 0)
+			(at 144.78 110.49 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13812,7 +14548,7 @@
 			)
 		)
 		(property "Mounting Style" "Surface Mount"
-			(at 148.59 146.05 0)
+			(at 144.78 107.95 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13823,7 +14559,7 @@
 			)
 		)
 		(property "Number of Rows" "2"
-			(at 148.59 148.59 0)
+			(at 144.78 105.41 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13834,7 +14570,7 @@
 			)
 		)
 		(property "Pin Count" "2"
-			(at 148.59 151.13 0)
+			(at 144.78 102.87 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13845,7 +14581,7 @@
 			)
 		)
 		(property "Pitch (mm)" "1.27"
-			(at 148.59 153.67 0)
+			(at 144.78 100.33 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13856,7 +14592,7 @@
 			)
 		)
 		(property "Series" "FW-xx-03-G-D-085-155"
-			(at 148.59 156.21 0)
+			(at 144.78 97.79 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13867,7 +14603,7 @@
 			)
 		)
 		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
-			(at 148.59 158.75 0)
+			(at 144.78 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13878,7 +14614,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
-			(at 148.59 161.29 0)
+			(at 144.78 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13889,7 +14625,7 @@
 			)
 		)
 		(property "Voltage Rating (V)" "300"
-			(at 148.59 163.83 0)
+			(at 144.78 90.17 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13993,7 +14729,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_C1812C101JHGACTU")
-		(at 53.34 114.3 270)
+		(at 67.31 114.3 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14002,7 +14738,7 @@
 		(fields_autoplaced yes)
 		(uuid "742136d4-ef35-4ae5-b811-3519e729ab69")
 		(property "Reference" "C11"
-			(at 57.15 113.0299 90)
+			(at 71.12 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14011,7 +14747,7 @@
 			)
 		)
 		(property "Value" "100 pF"
-			(at 57.15 115.5699 90)
+			(at 71.12 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14020,7 +14756,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_1812_4532Metric"
-			(at 45.72 114.3 0)
+			(at 59.69 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14031,7 +14767,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.kemet.com/en/us/search.html?q=C1812C101JHGACTU"
-			(at 43.18 114.3 0)
+			(at 57.15 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14042,7 +14778,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 100 pF C0G (NP0) 5% 1812 3kV"
-			(at 40.64 114.3 0)
+			(at 54.61 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14053,7 +14789,7 @@
 			)
 		)
 		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1812.step"
-			(at 38.1 114.3 0)
+			(at 52.07 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14064,7 +14800,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 35.56 114.3 0)
+			(at 49.53 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14075,7 +14811,7 @@
 			)
 		)
 		(property "Case Code - in" "1812"
-			(at 33.02 114.3 0)
+			(at 46.99 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14086,7 +14822,7 @@
 			)
 		)
 		(property "Case Code - mm" "4532"
-			(at 30.48 114.3 0)
+			(at 44.45 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14097,7 +14833,7 @@
 			)
 		)
 		(property "Dielectric" "C0G (NP0)"
-			(at 27.94 114.3 0)
+			(at 41.91 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14108,7 +14844,7 @@
 			)
 		)
 		(property "MPN" "C1812C101JHGACTU"
-			(at 25.4 114.3 0)
+			(at 39.37 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14119,7 +14855,7 @@
 			)
 		)
 		(property "Manufacturer" "Kemet"
-			(at 22.86 114.3 0)
+			(at 36.83 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14130,7 +14866,7 @@
 			)
 		)
 		(property "Series" "C1812C"
-			(at 20.32 114.3 0)
+			(at 34.29 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14141,7 +14877,7 @@
 			)
 		)
 		(property "Symbol Name" "C_C1812C101JHGACTU"
-			(at 17.78 114.3 0)
+			(at 31.75 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14152,7 +14888,7 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 15.24 114.3 0)
+			(at 29.21 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14163,7 +14899,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/C1812C101JHGACTU"
-			(at 12.7 114.3 0)
+			(at 26.67 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14174,7 +14910,7 @@
 			)
 		)
 		(property "Voltage Rating" "3kV"
-			(at 10.16 114.3 0)
+			(at 24.13 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14412,7 +15148,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_DIODES_DATA_BASE:D_SMBJ58CA")
-		(at 78.74 120.65 90)
+		(at 88.9 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14421,7 +15157,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e7a751e-3383-4b59-b3f8-6e0c5691472d")
 		(property "Reference" "D6"
-			(at 82.55 119.3799 90)
+			(at 92.71 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14430,7 +15166,7 @@
 			)
 		)
 		(property "Value" "58 V"
-			(at 82.55 121.9199 90)
+			(at 92.71 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14439,50 +15175,6 @@
 			)
 		)
 		(property "Footprint" "diode_footprints:DO-214AA"
-			(at 86.36 120.65 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.littelfuse.com/assetdocs/tvs-diodes-smbj-series-datasheet?assetguid=09a6ae9a-73cb-4ac4-acac-e6dab92ab953"
-			(at 88.9 120.65 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Bidirectional TVS SMD 58 V"
-			(at 91.44 120.65 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Diode Type" "Bidirectional TVS"
-			(at 93.98 120.65 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SMBJ58CA"
 			(at 96.52 120.65 0)
 			(show_name yes)
 			(effects
@@ -14493,7 +15185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Littelfuse"
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/tvs-diodes-smbj-series-datasheet?assetguid=09a6ae9a-73cb-4ac4-acac-e6dab92ab953"
 			(at 99.06 120.65 0)
 			(show_name yes)
 			(effects
@@ -14504,7 +15196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Maximum DC Current (A)" "0.0"
+		(property "Description" "Bidirectional TVS SMD 58 V"
 			(at 101.6 120.65 0)
 			(show_name yes)
 			(effects
@@ -14515,7 +15207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "SMBJ"
+		(property "Diode Type" "Bidirectional TVS"
 			(at 104.14 120.65 0)
 			(show_name yes)
 			(effects
@@ -14526,7 +15218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "D_SMBJ58CA"
+		(property "MPN" "SMBJ58CA"
 			(at 106.68 120.65 0)
 			(show_name yes)
 			(effects
@@ -14537,8 +15229,52 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/SMBJ58CA"
+		(property "Manufacturer" "Littelfuse"
 			(at 109.22 120.65 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Current (A)" "0.0"
+			(at 111.76 120.65 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "SMBJ"
+			(at 114.3 120.65 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "D_SMBJ58CA"
+			(at 116.84 120.65 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/SMBJ58CA"
+			(at 119.38 120.65 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15024,7 +15760,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_RESISTORS_DATA_BASE:R_CHV2010-JW-475ELF")
-		(at 35.56 116.84 0)
+		(at 49.53 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15033,7 +15769,7 @@
 		(fields_autoplaced yes)
 		(uuid "85d64d4b-1667-4d4c-af60-db1f0c794bc2")
 		(property "Reference" "R9"
-			(at 35.56 110.49 0)
+			(at 49.53 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15041,7 +15777,7 @@
 			)
 		)
 		(property "Value" "4.7 MΩ"
-			(at 35.56 113.03 0)
+			(at 49.53 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15049,7 +15785,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_2010_5025Metric"
-			(at 35.56 121.92 0)
+			(at 49.53 121.92 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15060,7 +15796,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.murata.com/products/productdetail?partno="
-			(at 35.56 124.46 0)
+			(at 49.53 124.46 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15071,7 +15807,7 @@
 			)
 		)
 		(property "Description" "RES SMD 4.7 MΩ 1% 2010 2kV"
-			(at 35.56 127 0)
+			(at 49.53 127 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15082,7 +15818,7 @@
 			)
 		)
 		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/R_2010.step"
-			(at 35.56 129.54 0)
+			(at 49.53 129.54 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15093,7 +15829,7 @@
 			)
 		)
 		(property "Case Code - in" "2010"
-			(at 35.56 132.08 0)
+			(at 49.53 132.08 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15104,7 +15840,7 @@
 			)
 		)
 		(property "Case Code - mm" "5025"
-			(at 35.56 134.62 0)
+			(at 49.53 134.62 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15115,7 +15851,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 35.56 137.16 0)
+			(at 49.53 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15126,7 +15862,7 @@
 			)
 		)
 		(property "MPN" "CHV2010-JW-475ELF"
-			(at 35.56 139.7 0)
+			(at 49.53 139.7 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15137,7 +15873,7 @@
 			)
 		)
 		(property "Manufacturer" "Bourns"
-			(at 35.56 142.24 0)
+			(at 49.53 142.24 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15148,7 +15884,7 @@
 			)
 		)
 		(property "Series" "CHV2010-JW-"
-			(at 35.56 144.78 0)
+			(at 49.53 144.78 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15159,7 +15895,7 @@
 			)
 		)
 		(property "Symbol Name" "R_CHV2010-JW-475ELF"
-			(at 35.56 147.32 0)
+			(at 49.53 147.32 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15170,7 +15906,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "200 ppm/°C"
-			(at 35.56 149.86 0)
+			(at 49.53 149.86 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15181,7 +15917,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 35.56 152.4 0)
+			(at 49.53 152.4 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15192,7 +15928,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CHV2010-JW-475ELF"
-			(at 35.56 154.94 0)
+			(at 49.53 154.94 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15203,7 +15939,7 @@
 			)
 		)
 		(property "Voltage Rating" "2kV"
-			(at 35.56 157.48 0)
+			(at 49.53 157.48 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15721,6 +16457,247 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-03-03-G-D-085-155")
+		(at 34.29 107.95 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "991f1ef6-187d-49f4-9c68-9b40a95aaefd")
+		(property "Reference" "J4"
+			(at 34.29 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FW-03-03-G-D-085-155"
+			(at 34.29 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "connector_footprints:FW-03-03-G-D-085-155"
+			(at 39.37 99.06 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
+			(at 39.37 96.52 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  3 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+			(at 39.37 93.98 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Black"
+			(at 39.37 91.44 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Gold"
+			(at 39.37 88.9 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "5.2"
+			(at 39.37 86.36 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "FW-03-03-G-D-085-155"
+			(at 39.37 83.82 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec"
+			(at 39.37 81.28 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 39.37 78.74 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Surface Mount"
+			(at 39.37 76.2 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "2"
+			(at 39.37 73.66 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "3"
+			(at 39.37 71.12 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "1.27"
+			(at 39.37 68.58 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "FW-xx-03-G-D-085-155"
+			(at 39.37 66.04 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_FW-03-03-G-D-085-155"
+			(at 39.37 63.5 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-03-03-G-D-085-155"
+			(at 39.37 60.96 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 39.37 58.42 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "3a2b5110-6fae-4ea7-97af-f4f2c82d3f55")
+		)
+		(pin "4"
+			(uuid "cf7a19c8-f004-43bc-992b-82dcfc381171")
+		)
+		(pin "2"
+			(uuid "4669cfe0-7df4-40dd-95a6-8b6699f627cd")
+		)
+		(pin "1"
+			(uuid "a142212b-d8f8-414c-9a3c-51ee41e31489")
+		)
+		(pin "6"
+			(uuid "ce6860ec-a524-4429-9744-822a03fe1639")
+		)
+		(pin "5"
+			(uuid "095b6c53-1eba-4c3d-bf92-db71fa87e3a5")
+		)
+		(instances
+			(project "minimal_ltc9111"
+				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 358.14 116.84 0)
 		(unit 1)
@@ -15788,7 +16765,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 53.34 99.06 0)
+		(at 67.31 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15797,7 +16774,7 @@
 		(fields_autoplaced yes)
 		(uuid "9981d683-dcb6-465d-a09d-3dec71d0b32e")
 		(property "Reference" "#PWR018"
-			(at 53.34 105.41 0)
+			(at 67.31 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15806,7 +16783,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 53.34 104.14 0)
+			(at 67.31 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15814,7 +16791,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 99.06 0)
+			(at 67.31 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15823,7 +16800,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 99.06 0)
+			(at 67.31 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15832,7 +16809,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 53.34 99.06 0)
+			(at 67.31 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15854,7 +16831,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
-		(at 127 100.33 0)
+		(at 123.19 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15863,7 +16840,7 @@
 		(fields_autoplaced yes)
 		(uuid "9dfd6fc6-90b2-4282-b321-c6412e0176ac")
 		(property "Reference" "MB2"
-			(at 127 95.25 0)
+			(at 123.19 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15873,7 +16850,7 @@
 			)
 		)
 		(property "Value" "mouse-bite-midle-50mil-200mil"
-			(at 127 107.95 0)
+			(at 123.19 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15883,7 +16860,7 @@
 			)
 		)
 		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
-			(at 127 105.41 0)
+			(at 123.19 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15893,7 +16870,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 100.33 0)
+			(at 123.19 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15902,7 +16879,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 100.33 0)
+			(at 123.19 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15921,7 +16898,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_C1812C101JHGACTU")
-		(at 53.34 93.98 270)
+		(at 67.31 93.98 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15930,7 +16907,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0967305-47b9-4052-863a-9040e067a6c1")
 		(property "Reference" "C10"
-			(at 57.15 92.7099 90)
+			(at 71.12 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15939,7 +16916,7 @@
 			)
 		)
 		(property "Value" "100 pF"
-			(at 57.15 95.2499 90)
+			(at 71.12 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15948,7 +16925,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_1812_4532Metric"
-			(at 45.72 93.98 0)
+			(at 59.69 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15959,7 +16936,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.kemet.com/en/us/search.html?q=C1812C101JHGACTU"
-			(at 43.18 93.98 0)
+			(at 57.15 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15970,7 +16947,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 100 pF C0G (NP0) 5% 1812 3kV"
-			(at 40.64 93.98 0)
+			(at 54.61 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15981,7 +16958,7 @@
 			)
 		)
 		(property "3dviewer Link" "https://3dviewer.net/index.html#model=https://github.com/ionutms/KiCAD_Symbols_Generator/blob/main/3D_models/C_1812.step"
-			(at 38.1 93.98 0)
+			(at 52.07 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15992,7 +16969,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 35.56 93.98 0)
+			(at 49.53 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16003,7 +16980,7 @@
 			)
 		)
 		(property "Case Code - in" "1812"
-			(at 33.02 93.98 0)
+			(at 46.99 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16014,7 +16991,7 @@
 			)
 		)
 		(property "Case Code - mm" "4532"
-			(at 30.48 93.98 0)
+			(at 44.45 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16025,7 +17002,7 @@
 			)
 		)
 		(property "Dielectric" "C0G (NP0)"
-			(at 27.94 93.98 0)
+			(at 41.91 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16036,7 +17013,7 @@
 			)
 		)
 		(property "MPN" "C1812C101JHGACTU"
-			(at 25.4 93.98 0)
+			(at 39.37 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16047,7 +17024,7 @@
 			)
 		)
 		(property "Manufacturer" "Kemet"
-			(at 22.86 93.98 0)
+			(at 36.83 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16058,7 +17035,7 @@
 			)
 		)
 		(property "Series" "C1812C"
-			(at 20.32 93.98 0)
+			(at 34.29 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16069,7 +17046,7 @@
 			)
 		)
 		(property "Symbol Name" "C_C1812C101JHGACTU"
-			(at 17.78 93.98 0)
+			(at 31.75 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16080,7 +17057,7 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 15.24 93.98 0)
+			(at 29.21 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16091,7 +17068,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/C1812C101JHGACTU"
-			(at 12.7 93.98 0)
+			(at 26.67 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16102,7 +17079,7 @@
 			)
 		)
 		(property "Voltage Rating" "3kV"
-			(at 10.16 93.98 0)
+			(at 24.13 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16129,7 +17106,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 25.4 105.41 90)
+		(at 22.86 105.41 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16138,7 +17115,7 @@
 		(dnp no)
 		(uuid "a153dff6-2051-40ac-912c-a09bf2540cb5")
 		(property "Reference" "TP7"
-			(at 20.32 105.4099 90)
+			(at 17.78 105.4099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16147,7 +17124,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 22.86 107.95 0)
+			(at 20.32 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16157,7 +17134,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 30.48 107.95 0)
+			(at 27.94 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16167,7 +17144,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 107.95 0)
+			(at 22.86 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16177,7 +17154,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 27.94 107.95 0)
+			(at 25.4 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16370,8 +17347,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
-		(at 127 115.57 0)
-		(mirror x)
+		(at 123.19 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16380,7 +17356,7 @@
 		(fields_autoplaced yes)
 		(uuid "b3e0dca7-cc60-4411-b148-432ae57704ca")
 		(property "Reference" "MB3"
-			(at 127 120.65 0)
+			(at 123.19 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16390,7 +17366,7 @@
 			)
 		)
 		(property "Value" "mouse-bite-midle-50mil-200mil"
-			(at 127 107.95 0)
+			(at 123.19 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16400,7 +17376,7 @@
 			)
 		)
 		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
-			(at 127 110.49 0)
+			(at 123.19 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16410,7 +17386,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 115.57 0)
+			(at 123.19 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16419,7 +17395,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 115.57 0)
+			(at 123.19 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16438,7 +17414,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
-		(at 143.51 100.33 0)
+		(at 139.7 77.47 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16448,7 +17424,7 @@
 		(fields_autoplaced yes)
 		(uuid "b4caeb48-41c8-48c0-85c0-a0fffca1cfac")
 		(property "Reference" "J2"
-			(at 143.51 91.44 0)
+			(at 139.7 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16456,7 +17432,7 @@
 			)
 		)
 		(property "Value" "FW-02-03-G-D-085-155"
-			(at 143.51 93.98 0)
+			(at 139.7 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16464,7 +17440,7 @@
 			)
 		)
 		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
-			(at 148.59 92.71 0)
+			(at 144.78 69.85 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16475,7 +17451,7 @@
 			)
 		)
 		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
-			(at 148.59 90.17 0)
+			(at 144.78 67.31 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16486,7 +17462,7 @@
 			)
 		)
 		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
-			(at 148.59 87.63 0)
+			(at 144.78 64.77 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16497,7 +17473,7 @@
 			)
 		)
 		(property "Color" "Black"
-			(at 148.59 85.09 0)
+			(at 144.78 62.23 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16508,7 +17484,7 @@
 			)
 		)
 		(property "Contact Plating" "Gold"
-			(at 148.59 82.55 0)
+			(at 144.78 59.69 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16519,7 +17495,7 @@
 			)
 		)
 		(property "Current Rating (A)" "5.2"
-			(at 148.59 80.01 0)
+			(at 144.78 57.15 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16530,7 +17506,7 @@
 			)
 		)
 		(property "MPN" "FW-02-03-G-D-085-155"
-			(at 148.59 77.47 0)
+			(at 144.78 54.61 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16541,7 +17517,7 @@
 			)
 		)
 		(property "Manufacturer" "Samtec"
-			(at 148.59 74.93 0)
+			(at 144.78 52.07 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16552,7 +17528,7 @@
 			)
 		)
 		(property "Mounting Angle" "Vertical"
-			(at 148.59 72.39 0)
+			(at 144.78 49.53 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16563,7 +17539,7 @@
 			)
 		)
 		(property "Mounting Style" "Surface Mount"
-			(at 148.59 69.85 0)
+			(at 144.78 46.99 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16574,7 +17550,7 @@
 			)
 		)
 		(property "Number of Rows" "2"
-			(at 148.59 67.31 0)
+			(at 144.78 44.45 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16585,7 +17561,7 @@
 			)
 		)
 		(property "Pin Count" "2"
-			(at 148.59 64.77 0)
+			(at 144.78 41.91 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16596,7 +17572,7 @@
 			)
 		)
 		(property "Pitch (mm)" "1.27"
-			(at 148.59 62.23 0)
+			(at 144.78 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16607,7 +17583,7 @@
 			)
 		)
 		(property "Series" "FW-xx-03-G-D-085-155"
-			(at 148.59 59.69 0)
+			(at 144.78 36.83 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16618,7 +17594,7 @@
 			)
 		)
 		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
-			(at 148.59 57.15 0)
+			(at 144.78 34.29 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16629,7 +17605,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
-			(at 148.59 54.61 0)
+			(at 144.78 31.75 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16640,7 +17616,7 @@
 			)
 		)
 		(property "Voltage Rating (V)" "300"
-			(at 148.59 52.07 0)
+			(at 144.78 29.21 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16673,7 +17649,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 25.4 110.49 90)
+		(at 22.86 110.49 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16682,7 +17658,7 @@
 		(dnp no)
 		(uuid "b74ef617-0c8f-40a1-bcf2-a5b984e47494")
 		(property "Reference" "TP9"
-			(at 20.32 110.4899 90)
+			(at 17.78 110.4899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16691,7 +17667,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 22.86 113.03 0)
+			(at 20.32 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16701,7 +17677,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 30.48 113.03 0)
+			(at 27.94 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16711,7 +17687,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 113.03 0)
+			(at 22.86 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16721,7 +17697,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 27.94 113.03 0)
+			(at 25.4 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16878,7 +17854,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 132.08 95.25 90)
+		(at 128.27 72.39 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16887,7 +17863,7 @@
 		(dnp no)
 		(uuid "bc06b4c8-48c1-482a-bfbe-86210d3569c9")
 		(property "Reference" "TP4"
-			(at 127 95.2499 90)
+			(at 123.19 72.3899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16896,7 +17872,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 129.54 97.79 0)
+			(at 125.73 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16906,7 +17882,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 137.16 97.79 0)
+			(at 133.35 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16916,7 +17892,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 97.79 0)
+			(at 128.27 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16926,7 +17902,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 134.62 97.79 0)
+			(at 130.81 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17358,6 +18334,73 @@
 			(project ""
 				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-50mil-250mil")
+		(at 34.29 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cd01aec5-9bb1-4981-aba6-15212ec6fb91")
+		(property "Reference" "MB6"
+			(at 34.29 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-50mil-200mil"
+			(at 34.29 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-50mil-250mil"
+			(at 34.29 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 34.29 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/6aaa2e97-4eb3-4b80-8e63-a529f6ae566a"
+					(reference "MB6")
 					(unit 1)
 				)
 			)
@@ -17847,7 +18890,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 107.95 0)
+		(at 148.59 80.01 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17857,7 +18900,7 @@
 		(fields_autoplaced yes)
 		(uuid "d3648319-46a8-42cb-a8a8-21823bbb7d4f")
 		(property "Reference" "#PWR017"
-			(at 154.94 114.3 0)
+			(at 148.59 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17866,7 +18909,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 113.03 0)
+			(at 148.59 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17874,7 +18917,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 107.95 0)
+			(at 148.59 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17883,7 +18926,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 107.95 0)
+			(at 148.59 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17892,7 +18935,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 107.95 0)
+			(at 148.59 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)

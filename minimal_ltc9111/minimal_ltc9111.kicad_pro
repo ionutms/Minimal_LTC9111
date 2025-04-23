@@ -504,6 +504,7 @@
       "/POWER_IN_P": "rgb(132, 0, 132)",
       "/POWER_N": "rgb(0, 194, 194)",
       "/POWER_P": "rgb(194, 0, 194)",
+      "Earth": "rgb(0, 72, 0)",
       "GND": "rgb(72, 72, 72)"
     },
     "netclass_assignments": null,
