@@ -518,7 +518,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "minimal_ltc9111.step",
+      "step": "minimal_ltc9111.glb",
       "svg": "",
       "vrml": "minimal_ltc9111.wrl"
     },
